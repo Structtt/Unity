@@ -1,0 +1,3994 @@
+fileFormatVersion: 2
+guid: 06b9a815e7c376b4795559b440801a2e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Achievement Screen Material_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1097
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff95831238d156b41b0d36490f0db96a
+      internalID: 300442109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1045
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d48abed2c24ca54189a8ee3b4a30766
+      internalID: 1550194716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1045
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff208a1022900941aa6d9a8437cda82
+      internalID: 1541322001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1045
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbef77f26d0dac342b518911fb6a8caa
+      internalID: 2111162696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 997
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7421799b579961439bd346172176488
+      internalID: -3447560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 997
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1835686918364fa40a21ec0bf9ee0f5b
+      internalID: 1146740755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 997
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32513cd4c86629d4e98f001b9a02b2d0
+      internalID: 2090119220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 997
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c1beb8551b3a949a56332645caeca0
+      internalID: 430199025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 997
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f75877215730f40a7621d3d583bc9e
+      internalID: 1797803286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 997
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51058306fe444a44087ce60bdb869f58
+      internalID: 274803731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 997
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3e0d51c8f94fc4993bca1097378d59
+      internalID: -922549712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 997
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e911518675fa28d458a55e5f1f901911
+      internalID: 432621769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 997
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38894473734cd34faa74c9a536a6578
+      internalID: 1198878873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_13
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 997
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36377ee22361e4498896b2f019be281
+      internalID: -864871456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 997
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fda20821f18d7e41b391b60a9ea4cf1
+      internalID: 1764527758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 997
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e22ea04e7b21c64d9635e31d77725fa
+      internalID: 317591839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_16
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 997
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d462f38b412404e85fa89ae605d5b0
+      internalID: -79730482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 997
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe0cd21b7003b54fbec2d2bafc4bc3b
+      internalID: 1312359047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_18
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 997
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f3f3948a7f65c4ea36ceda16a47e26
+      internalID: 96306425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_19
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 997
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300a4339a1a1ed042b0cfa28290b1074
+      internalID: -1126356803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_20
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 997
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affa1778531d1da49b5ad46127902ca6
+      internalID: 1201752584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_21
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 997
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46f7121c2fce5d46ab4b868f3b72b97
+      internalID: -134113253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_22
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1023
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bbce03bb9323a4f81b051a69129f0a
+      internalID: 356801008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_23
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1023
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b687b2eafb2cf45ba468dffabf6142
+      internalID: -1302716087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_24
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1024
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5452437e9f85f344bb7c7f9cef745200
+      internalID: 417979065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_25
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1023
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa5ea54275194d488fc41ec19e030dc
+      internalID: 37928692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_26
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1023
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce703e5e3ec6e804ab642644e1f05255
+      internalID: 784035595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_27
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 998
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac56c1ce371ed448b2d09728e71f23b
+      internalID: 1242544529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_28
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 998
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec96a9387185a0418b0b7ac057dd9aa
+      internalID: 396239285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_29
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 997
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bea9f17dbc544d479d41bf3e4b989ba
+      internalID: -560318565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_30
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 997
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e16768d2ecbad4fa5c844f05245f96
+      internalID: 2031808783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_31
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1020
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b41f89f740b9a845a2bd239162f5a99
+      internalID: 1157009911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_32
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1020
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0249759dc21a96d468e03299778963db
+      internalID: 334871973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_33
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1020
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77433c9a58915aa4ca91f13902d1b01d
+      internalID: -354584974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_34
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 997
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d50397eb41cb024390e1bb16966edd0
+      internalID: -410542838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_35
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 997
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01c87965f46b4f498105b8e33535632
+      internalID: -2093756424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_36
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 997
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650999227615afc42808d27843ce5ca5
+      internalID: -1715114481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_37
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 997
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacfc45306d508b4ba952b8923c67796
+      internalID: 1952024169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_38
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 997
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7497ab77766ab0f48a5ce87735dffc6e
+      internalID: -541886265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 946
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb94a077a7eb8049bc62a98b27b846d
+      internalID: 1136448898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 946
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9484bc874f4154046858830f47cca146
+      internalID: -568157253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_41
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 946
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f864b777a43ca64499f16501e72bff9e
+      internalID: -1592400254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_42
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 946
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb78faf2fa4913449713a2a8689ab5e
+      internalID: 140252737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_43
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 946
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9310fe8b28e71cf4398365344cbf3051
+      internalID: -1082218932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 946
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c316069a6de814cb7facbe7637b0cb
+      internalID: 1390585331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 946
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6dd5ee0f7593a44906862df9216deb
+      internalID: 2033867277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 946
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb2b05e8b9328d489454623d64265e7
+      internalID: 2100146119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_47
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 946
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d9cd190974b664dbe5c08824cc27c8
+      internalID: -666275916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_48
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 946
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a53474a7f8cc5479118a7be6f1e310
+      internalID: -1597721648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_49
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 946
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa7bb776f5574f4c97b5723a46aa0aa
+      internalID: 473896484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_50
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 947
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407731d0550fc6742a6e041dba62fadf
+      internalID: -1155185496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_51
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 947
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb84a8c1f12fcb4ab16327147c946c1
+      internalID: -580925251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_52
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 946
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174364faf7eb17b4389637cd9af0e619
+      internalID: -153022164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_53
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 946
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a3a2d6b3e1a44449e22de57edc3a56
+      internalID: -1100635180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_54
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 946
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a9183276bc0d046a440b51b4c22a36
+      internalID: 967739877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_55
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 946
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ea436de8b0541469cd1024c4e20739
+      internalID: 680586430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_56
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 946
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14588a204fc772e47b9eab59a557ace7
+      internalID: 861314288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_57
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 946
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667dc27136f716048ba4bd219850fc96
+      internalID: 1651831444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_58
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 946
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fce1928eb37dd42946c5f85f7a582e
+      internalID: -893352094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_59
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 946
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b0f0a6b072b754fbcdfc2165e5ade3
+      internalID: -1640656655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_60
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 946
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ff96b31eb7c854da42b2b3d4dde561
+      internalID: -993746322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_61
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 946
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9406f81d0669c2b4db36aa77852532f4
+      internalID: -1887776220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_62
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 969
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d77b8bd9df91c64bb4bc49511216e3b
+      internalID: -1130882158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_63
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 946
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83175b383dd4c2458cd6aa9cec684f1
+      internalID: -1120332037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 897
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f1f472c8ba02f48a8c6c7aeb43f4a1
+      internalID: 98704532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_65
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 897
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a7ea9b8fb5ce94fbc9915a5a154bd3
+      internalID: -1816647459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_66
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 897
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ca6c230417a9a45b7f83ed217fb082
+      internalID: -1965220854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_67
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 897
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3149235e484b249929f9cdff1845ed
+      internalID: 342531809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_68
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 897
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30222dbef8ea2441b4891e3ffdfa945
+      internalID: 508053814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_69
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 897
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb7869ca54a5554586c410e2ef24b68
+      internalID: 250537251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_70
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 897
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f7f60d7d6d7f1498103b1d7dbdd569
+      internalID: 1875860055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_71
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 897
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec92d71165feb14ca2e7acf0ff7e51c
+      internalID: 1254361496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_72
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 897
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a6eba42ca73654d89682eaf49ac7fb
+      internalID: 584463216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_73
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 897
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8201eeb6a4537444be9fa988eb81d2f
+      internalID: -1171906589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_74
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 897
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b5d22bf135b3a4aaf42885dd79d6b0
+      internalID: 95698239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_75
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 897
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a639ee3a19500c649a046518a3e8000b
+      internalID: 1141270364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_76
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 897
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776e35a8ce161f549bc69b9bf8483549
+      internalID: -1833392747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_77
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 897
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bc0fb6b4bce2b48ae6e01839a4600e
+      internalID: 1520622299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_78
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 897
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb36546b0fdb73d43ad8a8de325951c6
+      internalID: -1864518272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_79
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 897
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153f0634460bae14697c162753f01703
+      internalID: 836058530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_80
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 897
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edbd7a36e9530146b0463969cab4aec
+      internalID: 1453849900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_81
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 897
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af66a83ad1f359459669d54c1cc49de
+      internalID: 400700996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_82
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 897
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0f53891ec6d3a4595cced8c4c2dbd3
+      internalID: -1930785443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_83
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 897
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5525eaf3e2fe9448a23af64f2d1433a
+      internalID: 1091061307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_84
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 897
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b100f9e745a574db8a6a7b89561d9c
+      internalID: 958440303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_85
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 897
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507d8a2e568c7c544aa6bf044202df19
+      internalID: 1722082836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 849
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1bf6635c085c249b3d09aaeabed4b6
+      internalID: 421849268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_87
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 849
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319cf3f5f43d88a4db339a60c372830b
+      internalID: -1403712611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_88
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 849
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440530330ec7a9a48b4f27aef4621166
+      internalID: -217865917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_89
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 849
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be14d981370e0934499252ad17bf2cb4
+      internalID: 145637097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_90
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 849
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109741dfc730bfb4fa351aa70f56f32c
+      internalID: 1173666074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_91
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 849
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88095512bca2a8d438241ef2de19776e
+      internalID: -338703847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_92
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 849
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7240b281342ec5b47916823739e5ddba
+      internalID: -1630504688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_93
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 849
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10af3d982f59c641b86af3c08f7aefb
+      internalID: -1475886346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_94
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 849
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c146f47d8239f2e4b89ae8417f5325d8
+      internalID: -1862626684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_95
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 849
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245aa6da73502bc4fa7a0eee327f916e
+      internalID: 1756602957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_96
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 849
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5d9d0fcd383ab4bab6b58ac73c1225
+      internalID: -858092117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_97
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 849
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb36cd4b633c764d95c0cd4725e357d
+      internalID: 1007360696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_98
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 849
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d57737f2a99d524898566c8774c0e35
+      internalID: -1133915816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_99
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 849
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01ecb344da7bb64996440416d410d7a
+      internalID: -1894122927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_100
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 849
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127568a41a8f57c47bbafb7e30810804
+      internalID: 1714904364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_101
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 849
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56fb3b75e7c1d7428045a53ebf449ab
+      internalID: -256470322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_102
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 849
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34c7321b5f6bfb44a18c6c12469f07e
+      internalID: 739156260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_103
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 849
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632e767031180bf4c9004b970bc859f5
+      internalID: 680107745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_104
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 849
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c150b175ecbff418e848a12b3a6e5c
+      internalID: -335821434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_105
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 849
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa624154aa2dbbc419aadcdc5da3df9b
+      internalID: 639463920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 761
+        width: 335
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e4ef093b7406a4390ee9cf00963fcc
+      internalID: 1334024759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_107
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 812
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea088f8bf4e3d24687ffe9f8e663d99
+      internalID: 1450213479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_108
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 812
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7842f0103349d7d4287aecb6986ef810
+      internalID: -1307412277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_109
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 812
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57cce7dfae85284890b9e49c52b3cb6
+      internalID: -2001605167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_110
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 812
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f17ec43d97d2d44093246f500915aee
+      internalID: -1611167425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_111
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 811
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058fe3d3b4e5ca84baae05e529f51d12
+      internalID: 1719379894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_112
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 811
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880f4e3e43a71054ab739c1bd7fbf37e
+      internalID: -548289053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_113
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 814
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad924e25cf710804a88946e35fd2b9b3
+      internalID: -393643239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_114
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 814
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab3c3ed1c0c52f4b8f8eb0a4fe5d865
+      internalID: -2072981619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_115
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 809
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e7d5ead8c61ac4c9134fed70aa8e1b
+      internalID: -1182058220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_116
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 809
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f501c539c1c2a4429520455eb9067a0
+      internalID: -1276871300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_117
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 815
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5008cf1d4093324884173b4c887949f
+      internalID: -546435146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_118
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 815
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42faae6ff5ac7748b6651df6c784ad1
+      internalID: 868115310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_119
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 815
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccbba615847d1042bbbfdddf4e9f3f9
+      internalID: -1545145618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_120
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 815
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35efd3c4278bfc848a536b90e1145555
+      internalID: -1489446773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_121
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 810
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae0c41b6795d64429d19ee4e42cd872
+      internalID: -1561682874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_122
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 810
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b9c2f7c57285142a0790d65c05d191
+      internalID: -1260717171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_123
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 809
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1524086a605e38e4cbb13611a0f105c9
+      internalID: 820236813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_124
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 809
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e99d9dc652dc441beab16293a16f62
+      internalID: 296000139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 761
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f2b651ce3daf8428502db02d2e41e4
+      internalID: -495155847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_126
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 761
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8a3831c1f1b88498cb0c4453bcbcbe
+      internalID: -1167168844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_127
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 761
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a25290ce5b200418281fe483e83af8
+      internalID: 1180982842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_128
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 761
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6917a489d874694e87a4a044a66d432
+      internalID: -640915833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_129
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 761
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ca1a6998edcc9488e11a8fb65ad91e
+      internalID: -530440056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_130
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 761
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7150a53640b63274bb60f63d315e5eb8
+      internalID: 68745195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_131
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 761
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6aedac979167442bb4476be5c646e0
+      internalID: 2006699081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_132
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 761
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80970c44498b67d40ad44d0ff9ecba43
+      internalID: 1509665763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_133
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 761
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6c8e87d0544c940a653fe472f9cf93
+      internalID: 439844660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_134
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 761
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a9baface8e805418f5f79abbfa14c7
+      internalID: 1593157963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_135
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 761
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c24413361dad64b8d0fcffe470c799
+      internalID: -1490445954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_136
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 761
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18148157274832c428740301027d59ea
+      internalID: -791803363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_137
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 761
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a977f77f0649c04799994532adb6303
+      internalID: -1570342658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_138
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 761
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e19d8302d23f941ba5a70acdbd9ce8
+      internalID: -1939958935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_139
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 920
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea56f13121fbf894498d547a3b00189a
+      internalID: -1047472045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_140
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 702
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf0c4518cca18140a5a2c2014d5412b
+      internalID: 968724252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_141
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 702
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce83eae200d934cbd676269f913f18
+      internalID: 61537202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_142
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 655
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b10bf403c957d4db1bbe7718f31a55
+      internalID: 1288394189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_143
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 655
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4e36b3b9368b741a7b63480f6f6b90
+      internalID: -1591782871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_144
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 608
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a17efec50483924c8db1575cae94e4e
+      internalID: 508092453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_145
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 608
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c45836f3b536a44a849aba859ff68f
+      internalID: 882478471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_146
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 559
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9673199061ded48b281d7b1369c2be
+      internalID: 2111533935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_147
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 559
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502fd7f770b06724682b2e9de6175dd3
+      internalID: 1201941638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_148
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 510
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c138105a01288b4585f179b6c602225
+      internalID: -524241852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_149
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 510
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142775655ec3cab46886ffe276fadb9a
+      internalID: -1056525487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_150
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 461
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cd6f11dad02c347abe3d5a1288be8d
+      internalID: 546108652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_151
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 461
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9ce563438b18a4ca02ceb3cb04a4b9
+      internalID: 1553649860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_152
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 412
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af94c802661a65044ba4c2c335044c23
+      internalID: -909211421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_153
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 412
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52344317a77e01458688f0a34dc6527
+      internalID: 1158819137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_154
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 364
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e353e29970280d4b93f2f9af3ee1b05
+      internalID: -1516642927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_155
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 390
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5525a8966034cc446b762be8024c812d
+      internalID: 1640255129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_156
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 361
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0cf2bda23498c468354074b030e4e7
+      internalID: -170436966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_157
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 361
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4e685f4c2722c41a37907c6830eaf6
+      internalID: 218583925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_158
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 313
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a596fc75f828b48b3573a79c8c6bc4
+      internalID: 326650519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_159
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 339
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166d84a92c28cf5499d60d9f69aa460d
+      internalID: 1652443428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_160
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 310
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43da601cc1b72854fb208d60b951d010
+      internalID: -341417312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_161
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 310
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8daaeea7521294689d0e34ca95974c
+      internalID: -1910251946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_162
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 260
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e00e0c2f0aa7d442ae5af1dace59e0c
+      internalID: -1191887619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_163
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 260
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15527879fc745c441b8b9dd567e038b9
+      internalID: -1946471895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_164
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 210
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4948ae4a166676240a4b7d4e4eeab2d7
+      internalID: 53767401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_165
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 210
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df67dd320fd718408f3d7d90d776af8
+      internalID: 2048262657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_166
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 158
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e11968afb589a4dbd953d16271a403
+      internalID: -966993600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_167
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 158
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3f1d1910fd9d84c91527a250e1d114
+      internalID: -215175141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_168
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 106
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7192f30c2da490f43a7a6501d7497bb8
+      internalID: 1918883635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_169
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 106
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ea45a360dc81c45a5e5a4bcffca184
+      internalID: -1541960876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_170
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 53
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70ced20ec324254194ffb65b89d4ddb
+      internalID: 2043653943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_171
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 53
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68ac015e9ae3a44b9474c5122fe80a4
+      internalID: -1343174667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_172
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 0
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa854ec3d0ff67849a3ea1263ab49c9e
+      internalID: 2047067408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement Screen Material_173
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 0
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b31990f3998734d896f48c0f369886
+      internalID: -1028181060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b307168204167954b820da7d52c8ad18
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Achievement Screen Material_0: 300442109
+      Achievement Screen Material_1: 1550194716
+      Achievement Screen Material_10: -922549712
+      Achievement Screen Material_100: 1714904364
+      Achievement Screen Material_101: -256470322
+      Achievement Screen Material_102: 739156260
+      Achievement Screen Material_103: 680107745
+      Achievement Screen Material_104: -335821434
+      Achievement Screen Material_105: 639463920
+      Achievement Screen Material_106: 1334024759
+      Achievement Screen Material_107: 1450213479
+      Achievement Screen Material_108: -1307412277
+      Achievement Screen Material_109: -2001605167
+      Achievement Screen Material_11: 432621769
+      Achievement Screen Material_110: -1611167425
+      Achievement Screen Material_111: 1719379894
+      Achievement Screen Material_112: -548289053
+      Achievement Screen Material_113: -393643239
+      Achievement Screen Material_114: -2072981619
+      Achievement Screen Material_115: -1182058220
+      Achievement Screen Material_116: -1276871300
+      Achievement Screen Material_117: -546435146
+      Achievement Screen Material_118: 868115310
+      Achievement Screen Material_119: -1545145618
+      Achievement Screen Material_12: 1198878873
+      Achievement Screen Material_120: -1489446773
+      Achievement Screen Material_121: -1561682874
+      Achievement Screen Material_122: -1260717171
+      Achievement Screen Material_123: 820236813
+      Achievement Screen Material_124: 296000139
+      Achievement Screen Material_125: -495155847
+      Achievement Screen Material_126: -1167168844
+      Achievement Screen Material_127: 1180982842
+      Achievement Screen Material_128: -640915833
+      Achievement Screen Material_129: -530440056
+      Achievement Screen Material_13: -864871456
+      Achievement Screen Material_130: 68745195
+      Achievement Screen Material_131: 2006699081
+      Achievement Screen Material_132: 1509665763
+      Achievement Screen Material_133: 439844660
+      Achievement Screen Material_134: 1593157963
+      Achievement Screen Material_135: -1490445954
+      Achievement Screen Material_136: -791803363
+      Achievement Screen Material_137: -1570342658
+      Achievement Screen Material_138: -1939958935
+      Achievement Screen Material_139: -1047472045
+      Achievement Screen Material_14: 1764527758
+      Achievement Screen Material_140: 968724252
+      Achievement Screen Material_141: 61537202
+      Achievement Screen Material_142: 1288394189
+      Achievement Screen Material_143: -1591782871
+      Achievement Screen Material_144: 508092453
+      Achievement Screen Material_145: 882478471
+      Achievement Screen Material_146: 2111533935
+      Achievement Screen Material_147: 1201941638
+      Achievement Screen Material_148: -524241852
+      Achievement Screen Material_149: -1056525487
+      Achievement Screen Material_15: 317591839
+      Achievement Screen Material_150: 546108652
+      Achievement Screen Material_151: 1553649860
+      Achievement Screen Material_152: -909211421
+      Achievement Screen Material_153: 1158819137
+      Achievement Screen Material_154: -1516642927
+      Achievement Screen Material_155: 1640255129
+      Achievement Screen Material_156: -170436966
+      Achievement Screen Material_157: 218583925
+      Achievement Screen Material_158: 326650519
+      Achievement Screen Material_159: 1652443428
+      Achievement Screen Material_16: -79730482
+      Achievement Screen Material_160: -341417312
+      Achievement Screen Material_161: -1910251946
+      Achievement Screen Material_162: -1191887619
+      Achievement Screen Material_163: -1946471895
+      Achievement Screen Material_164: 53767401
+      Achievement Screen Material_165: 2048262657
+      Achievement Screen Material_166: -966993600
+      Achievement Screen Material_167: -215175141
+      Achievement Screen Material_168: 1918883635
+      Achievement Screen Material_169: -1541960876
+      Achievement Screen Material_17: 1312359047
+      Achievement Screen Material_170: 2043653943
+      Achievement Screen Material_171: -1343174667
+      Achievement Screen Material_172: 2047067408
+      Achievement Screen Material_173: -1028181060
+      Achievement Screen Material_18: 96306425
+      Achievement Screen Material_19: -1126356803
+      Achievement Screen Material_2: 1541322001
+      Achievement Screen Material_20: 1201752584
+      Achievement Screen Material_21: -134113253
+      Achievement Screen Material_22: 356801008
+      Achievement Screen Material_23: -1302716087
+      Achievement Screen Material_24: 417979065
+      Achievement Screen Material_25: 37928692
+      Achievement Screen Material_26: 784035595
+      Achievement Screen Material_27: 1242544529
+      Achievement Screen Material_28: 396239285
+      Achievement Screen Material_29: -560318565
+      Achievement Screen Material_3: 2111162696
+      Achievement Screen Material_30: 2031808783
+      Achievement Screen Material_31: 1157009911
+      Achievement Screen Material_32: 334871973
+      Achievement Screen Material_33: -354584974
+      Achievement Screen Material_34: -410542838
+      Achievement Screen Material_35: -2093756424
+      Achievement Screen Material_36: -1715114481
+      Achievement Screen Material_37: 1952024169
+      Achievement Screen Material_38: -541886265
+      Achievement Screen Material_39: 1136448898
+      Achievement Screen Material_4: -3447560
+      Achievement Screen Material_40: -568157253
+      Achievement Screen Material_41: -1592400254
+      Achievement Screen Material_42: 140252737
+      Achievement Screen Material_43: -1082218932
+      Achievement Screen Material_44: 1390585331
+      Achievement Screen Material_45: 2033867277
+      Achievement Screen Material_46: 2100146119
+      Achievement Screen Material_47: -666275916
+      Achievement Screen Material_48: -1597721648
+      Achievement Screen Material_49: 473896484
+      Achievement Screen Material_5: 1146740755
+      Achievement Screen Material_50: -1155185496
+      Achievement Screen Material_51: -580925251
+      Achievement Screen Material_52: -153022164
+      Achievement Screen Material_53: -1100635180
+      Achievement Screen Material_54: 967739877
+      Achievement Screen Material_55: 680586430
+      Achievement Screen Material_56: 861314288
+      Achievement Screen Material_57: 1651831444
+      Achievement Screen Material_58: -893352094
+      Achievement Screen Material_59: -1640656655
+      Achievement Screen Material_6: 2090119220
+      Achievement Screen Material_60: -993746322
+      Achievement Screen Material_61: -1887776220
+      Achievement Screen Material_62: -1130882158
+      Achievement Screen Material_63: -1120332037
+      Achievement Screen Material_64: 98704532
+      Achievement Screen Material_65: -1816647459
+      Achievement Screen Material_66: -1965220854
+      Achievement Screen Material_67: 342531809
+      Achievement Screen Material_68: 508053814
+      Achievement Screen Material_69: 250537251
+      Achievement Screen Material_7: 430199025
+      Achievement Screen Material_70: 1875860055
+      Achievement Screen Material_71: 1254361496
+      Achievement Screen Material_72: 584463216
+      Achievement Screen Material_73: -1171906589
+      Achievement Screen Material_74: 95698239
+      Achievement Screen Material_75: 1141270364
+      Achievement Screen Material_76: -1833392747
+      Achievement Screen Material_77: 1520622299
+      Achievement Screen Material_78: -1864518272
+      Achievement Screen Material_79: 836058530
+      Achievement Screen Material_8: 1797803286
+      Achievement Screen Material_80: 1453849900
+      Achievement Screen Material_81: 400700996
+      Achievement Screen Material_82: -1930785443
+      Achievement Screen Material_83: 1091061307
+      Achievement Screen Material_84: 958440303
+      Achievement Screen Material_85: 1722082836
+      Achievement Screen Material_86: 421849268
+      Achievement Screen Material_87: -1403712611
+      Achievement Screen Material_88: -217865917
+      Achievement Screen Material_89: 145637097
+      Achievement Screen Material_9: 274803731
+      Achievement Screen Material_90: 1173666074
+      Achievement Screen Material_91: -338703847
+      Achievement Screen Material_92: -1630504688
+      Achievement Screen Material_93: -1475886346
+      Achievement Screen Material_94: -1862626684
+      Achievement Screen Material_95: 1756602957
+      Achievement Screen Material_96: -858092117
+      Achievement Screen Material_97: 1007360696
+      Achievement Screen Material_98: -1133915816
+      Achievement Screen Material_99: -1894122927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

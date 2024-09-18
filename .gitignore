@@ -1,3 +1,12 @@
+[Ll]ogs/
+[Pp]ackages/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder

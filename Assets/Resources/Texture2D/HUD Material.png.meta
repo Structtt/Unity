@@ -1,0 +1,7980 @@
+fileFormatVersion: 2
+guid: f539eb554e6843c45957681b87181e29
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUD Material_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1991
+        width: 92
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48802c169f149524aa9667dead3cac0c
+      internalID: 895023293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2020
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ff24525c930494c9cfccfe8a7eb274
+      internalID: 1198048678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2020
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0b79062cc341a4a949715e903d4c8c
+      internalID: -1855171387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1991
+        width: 91
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321c8332f912e1b4b8691e5e97c61791
+      internalID: 977425454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2020
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d8b230175fbda4186e64ddecf9cf92
+      internalID: 1915106424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2020
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5c92105a4941d4291e401d51d8ab06
+      internalID: -193220161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_6
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1986
+        width: 95
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92e3c07cfd6d4b40b86babf737b06ba
+      internalID: -1001521705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_7
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2015
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a96ef33186eae94e8e8a655eaf4d14b
+      internalID: -636552431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_8
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1954
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05b17ce56e27cb4c8e7aae7d5807922
+      internalID: -1094560094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_9
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2002
+        width: 93
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da6ce741364a64c8491b4b2040d093
+      internalID: -2112765729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_10
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1984
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bf08fd1abfaa34b823842615a3ce9d
+      internalID: -1218510528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_11
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1984
+        width: 73
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6e2628831755347b0dd054a3ff6deb
+      internalID: -682108517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_12
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1984
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12585bc058af74c4cabd0fdff78ffe2d
+      internalID: -1414406997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_13
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1974
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a361b9f015df64b822e63391e19f0f
+      internalID: 1248389721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_14
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1947
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6b9215fad55b94db67e4b4a28f0dcd
+      internalID: 1997382529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_15
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1996
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d24fbaca4df1842aafde3dd9f08434
+      internalID: -962359413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_16
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1999
+        width: 91
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f1f12a0d625934c9d2e61faf9ba4db
+      internalID: -290880585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_17
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1974
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c767b756870b26e4d904df7bb0c6a498
+      internalID: -907179410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_18
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1954
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1ab97b15e6763468251c9b415f410e
+      internalID: 1500812713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_19
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1976
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f507395114f55104fa4c6c90ed6ecdd3
+      internalID: -1677871905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_20
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1991
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fca48920b8f154a8148e5981d791ad
+      internalID: -574832441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1991
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fd2162bc083db49b6531850074efdc
+      internalID: 473433427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_22
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1991
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e5aaae012e5224791c95c7f0ef6a33
+      internalID: 130106538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1991
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15f957e38e5c394da4716804382454a
+      internalID: 1842124740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1991
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ff3bc56ac556b44a05532dfefb0294
+      internalID: 689502584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_25
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1986
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b760b0d11296a0b479b0b115439ac67f
+      internalID: 2103177449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1868
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effeee76049084e4cb2960787e6aef73
+      internalID: 60937037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_27
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1862
+        width: 134
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08196dd4ccbeef499ed8c67def66c16
+      internalID: -42526285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_28
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1923
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e97fb7bea3a9b40abcf3aa6bb6bd68
+      internalID: -721078072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_29
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1949
+        width: 94
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9371db15d72834e4aa25d0991b54f0cf
+      internalID: 668174299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_30
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1941
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3c6f4b5c4f968478609fa5e381c8ae
+      internalID: -592678184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_31
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1950
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942c3d34dcd540b4fb28b9113a07c93c
+      internalID: -2139105064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1817
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0967db90777bb4c930ee3c94f45c35
+      internalID: 1768862261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_33
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1817
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7153b6c8d5a324080d35ab72df4407
+      internalID: -194570233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_34
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1815
+        width: 124
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01e81f7de25d5d4cb9e14ce5d2225b4
+      internalID: 1360185158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_35
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1866
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344c0a07587c2ca4cb428566b3d33f83
+      internalID: 465853109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_39
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1891
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8373a410b484874cbf3b857168fc6db
+      internalID: 412277538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_40
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1866
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fad0f46aca0ba46b2fcd68853a1f97
+      internalID: 1529053442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_41
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1890
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9285c1750eee094f992f6a82fbaa90b
+      internalID: 43349701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_42
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1883
+        width: 92
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3a320f8c1a3974796d3bd78f558758
+      internalID: 470097120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_43
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1900
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dca0ff809d2fa04695a6abc0d7ed4f1
+      internalID: 868198522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_44
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1882
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df7845c34d78ba4fa48b5006e805334
+      internalID: 484771123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_45
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1879
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08978ab84ec889344aeaa84403b13684
+      internalID: 781202368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_46
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1904
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662f56a5e2b1c744794ae19596a7421c
+      internalID: -1455867070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_47
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1939
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff31dfe171775b1409240327f2027e99
+      internalID: 1060889243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_51
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1807
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6d2f555e25f584fb8bb925db38d2c4
+      internalID: 517874609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_52
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1851
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd38644efd3c8f4fabc02672d020322
+      internalID: -321014325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_53
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1831
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce6b3edc6d7bdc45ab776a0d823485c
+      internalID: 1813744456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_54
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1825
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad4d7e5fc86d4549b52ec6175a91d31
+      internalID: -2137889793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_55
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1827
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbc06def7f278945ba3ca3c40670e11
+      internalID: 615686939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_56
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1810
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa17a824a4853744dad4efe79517c6e5
+      internalID: 1362940920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_57
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1808
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea8d1f67662bc34c80d2eedaccd6602
+      internalID: 712172797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_58
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1833
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbcb842499002e4091bc0f06a453487
+      internalID: 1225307594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_59
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1874
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fda956f52ac6384f9f2f88d122a6c22
+      internalID: -1706519886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_60
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1874
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b05af2daa2f65498b04fa89124d60c
+      internalID: 623773559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_61
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1815
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a620faabb7f9fd040904c4f572c60dc8
+      internalID: 363960054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_62
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1778
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b608164d7d43d6a4bab56041c44bd26d
+      internalID: 687918619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_63
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1727
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5518e2f7626c446a5198708d62bec3
+      internalID: 153261174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_64
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1723
+        width: 135
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc5a76ebfe204b47b9d8cd47622188b
+      internalID: -986116327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_65
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1785
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c11176f8651a74f9693f27fd5bda2d
+      internalID: -921188344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_66
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1778
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996e73762ad0ffb4991fe87aa279e50e
+      internalID: -472024304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_67
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1772
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46416d5ad0f4b64885cbb07f3a6f633
+      internalID: -1828939749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_68
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1777
+        width: 89
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bae04dd38b1a564e9158896a6fb303a
+      internalID: -70657333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_69
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1827
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01486046f6264ea45b5e0bdf32afc293
+      internalID: -1179495187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_70
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1827
+        width: 89
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a84fd4d29da1b64dae352960a6b5009
+      internalID: 456269659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1643
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ed4018a095d26409e6dce4d84f0ff8
+      internalID: 75565225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_72
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1643
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94bfe543ab2c924ebad0250fc54d8f5
+      internalID: -1485712042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_73
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1642
+        width: 132
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5e80b4bfed9144492607294c55ca36
+      internalID: 1929909905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_77
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1723
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a7be52fe734434d81701c89b32dd87
+      internalID: 243847543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_78
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1704
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e8417bd0926bd4bae22e53ce71c449
+      internalID: -1425681499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_79
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1767
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79be3605aedbf0f4ab47cac1acab8d75
+      internalID: 1136522433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_80
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1755
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2143e68488da2c34c816cca9784aef02
+      internalID: 882291321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_81
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1738
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77b8a145b0b15143b9b610ab41fda1b
+      internalID: 2035140227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_82
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1737
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e97ace32581a14c9d3746ab5c3f55f
+      internalID: 33100710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_83
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1777
+        width: 101
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c7843178cfd044ea04dceea0d4e5b6
+      internalID: -1311251989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_84
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1777
+        width: 99
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71710febf4815d6439ef004393d618fa
+      internalID: -812959006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_85
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1690
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb3cb9510b7ff24ebffeacd1b9a2b3b
+      internalID: -1793129601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_86
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1586
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f378dd47a0d85d748b063f9543e72f8c
+      internalID: -2021379827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_87
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1583
+        width: 136
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40381bc8f7fb9e4da23797f6b8a3443
+      internalID: -295724525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_91
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1704
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c7add8005f5a84bb8a321309851d30
+      internalID: -271808570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_92
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1713
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6fdf0f9a27a034cb08e5ea4b46d9c8
+      internalID: 1079292405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_93
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1709
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446a3a98a715b294d8d21537fa57afa8
+      internalID: 73442512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_94
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1682
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831baa92647bbdf4faf782bbcfe1c0cb
+      internalID: -806413591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_95
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1666
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11839916cf078eb46bd8239d316fa39a
+      internalID: 2074040780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_96
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1666
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c862b2ee83fde4abdc30d2d1693d0c
+      internalID: 62497289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_97
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1721
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f31b7c749c2e54ba8abf9f0617e637
+      internalID: 2041609222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_98
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1721
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf44051dcccce14f857f7357c633bdf
+      internalID: 1561213891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_99
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1721
+        width: 89
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b3ec958d9c7e940a1dad593358265e
+      internalID: -781579632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_100
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1602
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95087a950e831c489bc8a84dd0f5c64
+      internalID: 713301273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_101
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1639
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aa1c6f482d22244b8e8119417d9992
+      internalID: 400042434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_102
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1623
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bac1229bac03b43bc42b9a0dedd743
+      internalID: 1603158179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_103
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1623
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383b2001db3e01b4f90834d70154dbd2
+      internalID: -1227656327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_104
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1654
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df55ab19ba4a4184f8ecb41682358562
+      internalID: -1936268119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_105
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1651
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfceea8ad8336d4aa7ff88188d7f5ac
+      internalID: -638754288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_106
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1608
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b135a928c7ec65d429d55e70c18ecc9e
+      internalID: -1349505331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_107
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1665
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628294c12db5f394db977a6eb78b6f4a
+      internalID: -837515002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_108
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1665
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f51f8b40d6c5204090c6ba0ec810c3c
+      internalID: -1476615532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_109
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1665
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939912588e764ec4e802249ab9ae8b52
+      internalID: 1638535904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1469
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35b28045f192b14e81ad1c72d5390c7
+      internalID: -1011997032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_111
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1469
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bbf38c690fe0a4ea7463207b549a58
+      internalID: -1683403924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_112
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1469
+        width: 136
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e58a08a07902c948a1db0295028127c
+      internalID: -1585035458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_116
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1555
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede73139e45b25d42ba3760a92787213
+      internalID: 191297595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_117
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1542
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee161b44e573d046a50b54b94b92cc3
+      internalID: -1840409520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_118
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1542
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cace742d17cf0c141bcd3710f5eaf9e7
+      internalID: -1524682457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_119
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1595
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844ea88a73b1f794b90776b60fa5499e
+      internalID: 908036248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_120
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1593
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c679e50e931c92343a8a5816bade97b3
+      internalID: 1322733713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_121
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1608
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be046fb366ace54e88e2bdb8cbcb906
+      internalID: -1644407847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_122
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1608
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4786893a285c649a47ba090cd8ea62
+      internalID: -2119164848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_123
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1608
+        width: 89
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b5e5463243f3e44b03567096f8f0cc
+      internalID: 370818824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_124
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1608
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d79853716b3154984c258f20fe4e59
+      internalID: 857526688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_125
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1608
+        width: 90
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74200b4accf0b3e4294a81cfda366660
+      internalID: -1259831928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_126
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1514
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6cc64f7af705c4aa75fdd24ae58ccc
+      internalID: -1584547433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_127
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1445
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d3d6948f8a424478ebf0b446b350a8
+      internalID: -1282499665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_128
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1443
+        width: 136
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc58e89703473945bff9ed3c2bb973a
+      internalID: -2037146249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_132
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1471
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b1e47f1ba554145b84c6dbe807ad64
+      internalID: -1059848310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_133
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1461
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23060ed54e1f4c47adbf5e4b4b5591e
+      internalID: 1101609809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_134
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1461
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcea36287ee8ada4e873b7c24cb50283
+      internalID: 2071879318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_135
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1536
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca1f2278f4ce614b8b8a1d70226326c
+      internalID: 706988787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_136
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1535
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d2c52e637578248adc3b2f1a843cb3
+      internalID: 650841730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_137
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1535
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9bae44f92c4f3428a5fda0113a667e
+      internalID: -1266786802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_138
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1535
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b148dc7f3a4899c459a84fa0617d6fcf
+      internalID: 1844642963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_139
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1535
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d333d175bfe61843b3f0e15553f3928
+      internalID: -2029103879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_140
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1535
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa67ef6ed5cad2c4aad05a8654d894cf
+      internalID: 985994432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_141
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1535
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7252b2ae2f7f7a428b29c52d74a1810
+      internalID: 923157861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_142
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1535
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffa2db28e5c3394ab221f2658ccbc56
+      internalID: -7323024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_143
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1535
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f79b3ecbd595e14584844fa1350a975
+      internalID: -410493666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_144
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1423
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b022263874975c44a7fd56d269f2d5f
+      internalID: -609395468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_145
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1477
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337bbe7df1c0a5b4c9aa669624b54a95
+      internalID: -311910106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_146
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1477
+        width: 93
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe232c98eef0a44380a199dce285905
+      internalID: -1545139435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_147
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1477
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c90f8542607fac4f9032f560577f1e9
+      internalID: -2136630238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_148
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1477
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7844cad5fcfa3564c984583cb264d1d7
+      internalID: 2097131027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_149
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1477
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423785c160d9c4e4f930fcd9b669d9c1
+      internalID: -791538854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_150
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1477
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d6eeeb5af0ce04a9925c307b7d9537
+      internalID: 1097000796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_151
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1477
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e52dd85886bde4891fadb025b266f1
+      internalID: -1198956309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_152
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1477
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb43374b6972224992d91e529bb69a1
+      internalID: 42862063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1295
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f71ad43948dfca4394be9d09aeb1967
+      internalID: -192646377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_154
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1295
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490f6eea089463340be351059aecf329
+      internalID: 375662109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_155
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1295
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d52418dda4458458ac2079ec88f234
+      internalID: -526962677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_156
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1264
+        width: 81
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63ac825b1e5d5540ac304aa8099a490
+      internalID: 2029798090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_157
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1304
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a69fbe9301e4e4bae57d972fd33385
+      internalID: -1889683653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_158
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1303
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18e3d452053787429023e2cbb03cfe4
+      internalID: -2143908209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_162
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1387
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd668a07a7c7f942b6a22b8d6187bc8
+      internalID: 164445454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_163
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1380
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64605f5ab870e3a4eb1916cda2a99318
+      internalID: 856873945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_164
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1380
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1028131ed5e25a54a8546925e6a6e18a
+      internalID: -792327108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_165
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1418
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3466238a1e03514487c08d96843eabe
+      internalID: 1510919771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_166
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1419
+        width: 94
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4ba9b5960d1554cac74f7bbb60491f
+      internalID: -1004320138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_167
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1419
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee663becb49034b4c979a5390819272b
+      internalID: 1768781153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_168
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1419
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8f599b4a30f4b48bef95e558005696
+      internalID: 379849400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_169
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1419
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c480d3fbc13a74295904264b5aaf8f
+      internalID: 1347248036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_170
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1419
+        width: 94
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93303e87a1dbda3449516400f0e48cee
+      internalID: -1967071052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_171
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1419
+        width: 92
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b71c68036fc2044b865fc1c0c102966
+      internalID: -445325213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_172
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1419
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77de9373c8910e54b8afdd456bdd413e
+      internalID: 1775913382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_176
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1303
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f79a6bb5c23ae4b966d87148d66b3d
+      internalID: 1200647531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_177
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1299
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4309940654309844c9434a5442ca7664
+      internalID: 1950152217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_178
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1299
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0222e1d270d790f43a83f464eba52ef3
+      internalID: 1980570310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_179
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1359
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76496b7dd0d70344cb8c0b16f0a84451
+      internalID: -429368427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_180
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1359
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1bdd3929cea04418b0161d0c91ea57
+      internalID: -260397465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_181
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1359
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633f30644415130488bf6a1826d34354
+      internalID: -1406532720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_182
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1359
+        width: 94
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa2e3686b49e6c4b93e8a305cfec9b3
+      internalID: 228479107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_183
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1359
+        width: 94
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d43d6f0031368c45bdf3d26d7eeb92d
+      internalID: 232780873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_184
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1359
+        width: 94
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2b60ea163415e49bd7da5576ad5cdf
+      internalID: -340697773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_185
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1359
+        width: 93
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ae0349d744fef4a98affb2fce0d7d9
+      internalID: -744808556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_186
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1359
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95681aed87181a2449c48c47d8b9ff3c
+      internalID: -1891671324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_187
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1163
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3225dbf21a8f9154680f22fedb63af46
+      internalID: -224654155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_188
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1163
+        width: 137
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9490c74a7ffcb41b9a2bc70985de8d
+      internalID: -326266653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_192
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1218
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bde632cff5e27a4aaa73bce16066618
+      internalID: -1505134343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_193
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1299
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1647c0845a491c44c80c47eebb75f58c
+      internalID: -1828303377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_194
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1299
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fa33b6a0f95504bb6be7705ff11ab5
+      internalID: 1155498607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_195
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1299
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1722c00e9fa6b464ab744fd18ceeb132
+      internalID: -650921154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_196
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1299
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc8751f6cb02b940b7544a18e972a73
+      internalID: 1456933999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_197
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1299
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fde75b90fa5ada4f84c66e57157b0c8
+      internalID: 435007380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_198
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1299
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babdc20458fe74f43a947c73b9bf4c75
+      internalID: -765850858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_199
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1299
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe4d88ed01886143b7de7c95e1fdec7
+      internalID: 488083840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1121
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c9699ea5cebcc45849cdbedac307bf
+      internalID: 1182879194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_201
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1121
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315fec73d6bbebf418b5d37b862325d3
+      internalID: -869412001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_202
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1121
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe018312071af741836ece93bc2abb0
+      internalID: -2053280304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_203
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1100
+        width: 90
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef3b65681f92cf468a839426c699cc5
+      internalID: 165904856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_204
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1211
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f78e626a42df14db2f8ef1f61e413b
+      internalID: 1906361041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_205
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1218
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63ac4c006e92d143afb7b37c22b0b79
+      internalID: 1186914249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_206
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1218
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e253cb3ac2000e488b164cad949262d
+      internalID: -1711855376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_207
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1218
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2088d1df90072f4f8f757c62e345fe0
+      internalID: 513599889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_208
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1218
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabb70346c1064445b9fb19e90ee2832
+      internalID: -411807068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_209
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1218
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b102b52f019324cb79059229478efe
+      internalID: -657941589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_210
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1218
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcf9698f31097d4fbbb009b1238664b
+      internalID: -296726773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_211
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1218
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1819291e733a0468dd20cbd077bfea
+      internalID: 722150653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_212
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1218
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067c1c235bb9b2945b0cc8e8d275bfed
+      internalID: -2110062279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_213
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1218
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ae5519555e9374a9d584c2787c8e04
+      internalID: 1194109931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_214
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1218
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91975ea612a69f6488104c86cf3a70c4
+      internalID: -1396126320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_215
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 1218
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc25397ff1e69d4ab59d74366e2ef14
+      internalID: 1204268850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_216
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1188
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca8f75d17077124193864e126d91386
+      internalID: -1582307342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_220
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1134
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b820b6afd8f33449b65b3c12621648b
+      internalID: -2027880379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_221
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1135
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53338795545d2b64096d0b82c3b81af9
+      internalID: 894075864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_222
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1135
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6348cc66d47c2c04cac4d136527f1ea9
+      internalID: 1609455002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_223
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1135
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02e2f8cc9a84104f91de05b4e94fa98
+      internalID: 1474396984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_224
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1134
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762219870e8049943aef1366dfd0e0fe
+      internalID: -567481743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_225
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1134
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48bf0ef4adfd75489526a55aa237dcf
+      internalID: -96968531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_226
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1134
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21dc57749090a1499414d1f8713c127
+      internalID: -1515644970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_227
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1134
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab6c597f66213044841efdb0189eb54
+      internalID: -376998109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_228
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1134
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2055dfc1a64cf46bdb9ad166115024
+      internalID: 1423565077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_229
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1134
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5422d5fbd4c42534982a1502e41ea41a
+      internalID: 1157933727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_230
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1134
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213df0dcabbca9542a141dd930900a08
+      internalID: -119300855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_231
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1135
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255f31a0b3a756c4db77b5585400d874
+      internalID: -1402549723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_232
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1165
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd8053ef7d91f0489be3b0e11577f34
+      internalID: 715373715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_233
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1142
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee00b1bc7ec1e2d4c880cccbb4a1656c
+      internalID: 300241846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_234
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1022
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb04b7b4dc415949b171d86d8c1e3ba
+      internalID: -1332309285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_235
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1022
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8023d34845f93bc408715e4bc2e5c41a
+      internalID: 303137840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_236
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 947
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b120611502d462049895a24224bbafcc
+      internalID: -1729888016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_237
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 947
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c86545b734492a4dbc34dedcfb6b746
+      internalID: -828613182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_238
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 947
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a454a7c9fa4d64f9a8942871e6293d
+      internalID: 92509438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_239
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1119
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4065eed2c6bdf524c86ea60b39f0bb35
+      internalID: -1892369161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_248
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1050
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730e52ae2ae243945a9adf0938c19560
+      internalID: -634192461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_249
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1050
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ce2e4e23b37c5488610d3340ec5412
+      internalID: 1620843100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_250
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1050
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7cc19351ffc264cb9e4f8cdb30ab9c
+      internalID: -1588821982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_251
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1050
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411c0fd813b680f4788a054fead65a01
+      internalID: 681326224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_252
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1050
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8655a6d2fa06d4e4f99be728d46b1ce3
+      internalID: -969546471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_253
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1050
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2318c786b09d734baa3ee3d8bff6694
+      internalID: -1557645705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_254
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1100
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cad4ee0ed656f449e05edb97173ec4
+      internalID: 1505303163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_255
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 935
+        width: 98
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd44f6288b17b9246b4a161e2a90ca03
+      internalID: -101545397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_256
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1074
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190703a41cdb0844d9328f559d7762a8
+      internalID: -2084333724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_257
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1051
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c54c8bb72c8424cb080b090cad9fad
+      internalID: -433049309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_258
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1028
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd712d799fd93354290c808e96706b50
+      internalID: 782962627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_273
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1005
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc466dbd67a9a5a4fb83752ba521f34a
+      internalID: -1798860856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_274
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 881
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e578df55b62a2e4c8c217751d143dd8
+      internalID: -1977352858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_275
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 881
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5962ec9483f22aa4b842fc0ea335df19
+      internalID: 914762940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_276
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 982
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc6f2160388d3b4ebb620d8ae1bdf03
+      internalID: -161865748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_277
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 958
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf42638b0bf261341ad74737b2781825
+      internalID: -216825135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_292
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 773
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2543bd07cacae6746a9e03841a894493
+      internalID: 1338505449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_293
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 773
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2221be9e56d5c964da0fe52fd74a3a12
+      internalID: 1030756123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_294
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 773
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a2440e267990a4683a1835ed68734a
+      internalID: -337690512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_295
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 935
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e67184241f6924baafdc3c6a89448f
+      internalID: 1603867881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_296
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 768
+        width: 107
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62c4873725fac74ca62e5f70241bf0c
+      internalID: 1820860050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_297
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 740
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7684e40652389469d27274e2aa56ca
+      internalID: 1694579218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_298
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 740
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045c615952ce65342a3c81eaf95c6d30
+      internalID: 1319131704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_299
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 740
+        width: 134
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc6369fb03db724b8c0bd4c18e61bd1
+      internalID: 1297770294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_300
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 828
+        width: 71
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310201d314396cd4a93e554c96af59cf
+      internalID: 1604846525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_301
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 828
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4db19bb08186941bac23ac95290a68
+      internalID: 2026553820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_302
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 828
+        width: 67
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e26dbebc0b6d8c458a525cac329428c
+      internalID: 178011929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_303
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 828
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069994c74f9778b43912b791b414ce89
+      internalID: 1535455584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_304
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 828
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e79369ebb577574baf04f9632ad6cc0
+      internalID: 1080733574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_305
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 827
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebc01e34aba3c54b92bdd5d21dcb784
+      internalID: -1561456433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_306
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 827
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53079e53dbea0114e99f8d99de545471
+      internalID: -1233190793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_307
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 827
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30127dfb41b3d7c4e84240d15362e69f
+      internalID: 853711856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_308
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 825
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9033d3a090a0b428446e96224d01bd
+      internalID: 27144031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_309
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 825
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92076b9633432e44b9c68dee9c50d271
+      internalID: 1698157112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_310
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 825
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89329aea46a5c3a4d9f299469d044093
+      internalID: 2061524132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_311
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 825
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfff0d11d26d3b4eb0791b04079d587
+      internalID: -376986850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_312
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 791
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1d507b0e6b0de4e95e0670cd3272b4
+      internalID: 264064355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_313
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7a2f1b887ccc949a2a7df52d51b1fd
+      internalID: -1503738730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_314
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 599
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96de1b162a0030844906df55751509f4
+      internalID: 365910596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_315
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 599
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce1bcff3da434d449eeff5fc822017f
+      internalID: 438490854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_316
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 599
+        width: 116
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9aef9dd8528564abdcabf1107422fa
+      internalID: -640368874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_317
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 740
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac879bf8647f5a14ba9717355108ca20
+      internalID: 50372486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_318
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 740
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4e83d96a979544b96db6465df19fb4
+      internalID: 224733617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_319
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 740
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60314dc40783e7745b3112d3f7122880
+      internalID: -1067109496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_320
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 740
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df9af2868dc64f438c638bef18ec6db
+      internalID: 1158473004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_321
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 740
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b796300b09d78ca429707c5663459207
+      internalID: -338698229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_322
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 740
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d185aa40bf9fbe40aa9846f4f1a2e93
+      internalID: -1659531108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_323
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 740
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ac011fc9360be4099be0a9b8fc043c
+      internalID: -843233447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_324
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 740
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af51e56aab3a9b4185642cc78314a71
+      internalID: -1269250500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_329
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 740
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb6c670a1be2564d8386da3e124c011
+      internalID: -2100358600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_330
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 599
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35a435114aadb946891438aa20d3a03
+      internalID: -146885001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_331
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 599
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132e813047d99ff44b57ae950289401b
+      internalID: -823981971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_332
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 599
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4b01a683ed3b24195d7956e4c35d17
+      internalID: -139711097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_333
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 599
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567b64d6197857a4bbb0effde515fc66
+      internalID: -45762927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_334
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 599
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57c9eaa56d1b04468541b1ac967149e
+      internalID: -1226882882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_335
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 599
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecec7a80c03f13498e09103fabcd520
+      internalID: 1693635770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_336
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 599
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ba273a10b541645bf553f78d223c37
+      internalID: -1701228421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_337
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 599
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d1a404939b77b49820c46468ba682c
+      internalID: -1147237656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_338
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 599
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b94ee6108049f4d8b7978c2c5d6e9d
+      internalID: 2012402701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_339
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 599
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f98280197781a41a2e9ad7b4ac19cf
+      internalID: 2034045348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_340
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 688
+        width: 103
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d02c9ca1b0ee84ea32c5eb459e3ff7
+      internalID: -321270554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_341
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 599
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceccc64954889174f861358a5454a1fc
+      internalID: 528267303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_342
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 1440
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae46dae14982b0f49b13776cb29272f2
+      internalID: 1200612912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_343
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 523
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385fed7889c9b8f4886082c1ea85fafe
+      internalID: -663957679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_344
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 523
+        width: 97
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efce47f05df49774c8d6847d60541e7c
+      internalID: -1625294503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_345
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 523
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa39e351c47a26044b371414c0d4843a
+      internalID: 2044402151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_346
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 523
+        width: 97
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305ff17fcd8329443a3d49389f2d5733
+      internalID: -927998571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_347
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 523
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61476b65dd3d3c41af79099c4b7efe4
+      internalID: -1999064638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_348
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 523
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627075b1b5bc0d444bad58f6c9e526f3
+      internalID: 1153754461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_349
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 572
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4190264d330fcdc46859c9a59fd7f13e
+      internalID: -1128664048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_350
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 547
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d9c325823decf44a776490b275d528
+      internalID: 2143237737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_351
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 523
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5216800253fb7419c8d4f51eda1b0b
+      internalID: 172641755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_352
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 1740
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcd0b865adf7814aa5c1ee709dcf54d
+      internalID: -2041098192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_353
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 459
+        width: 97
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503d8ca415b156640a222db36ceec118
+      internalID: -785153802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_354
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 459
+        width: 97
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d4b7062caa65a43a8f78817a728024
+      internalID: 1376857416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_355
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 459
+        width: 97
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7652253b562cba448f96d2aaeeee76b
+      internalID: 1352090988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_356
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 1920
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026b3769953dc8349a46d9a16caba7e0
+      internalID: 1003913690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_357
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 446
+        width: 80
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f101c0c1cf05fb244ad5fa9463c3ec2e
+      internalID: 1168630253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_358
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 386
+        width: 97
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99accba52be5e6448d1bd90402312ad
+      internalID: -55548317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_359
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 416
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ea7ac29f0e02349aa9a2b042c7d60e
+      internalID: -938686286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_360
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 386
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197e40582b31ad84a95313d55807933b
+      internalID: 1654274912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_361
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492a505ddfac97b4195b0ddb1144faff
+      internalID: 510489013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_362
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 385
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa53150b0d5ce4dafe482aba5903c6
+      internalID: 2137520945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_363
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 307
+        width: 154
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f2c3869c796014bb2554e34feeac42
+      internalID: -1005274601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_364
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 366
+        width: 55
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86815eb498c0e57488823b6506779719
+      internalID: -2037775647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_365
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 366
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424b317eb0e0ac24aa280a2c96d725f3
+      internalID: -1302839604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_366
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 371
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104bf78b1d6176649ac287c73e95a0db
+      internalID: -696376030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_367
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 338
+        width: 97
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb72d96e6356734b9969b91c5b8568a
+      internalID: 1417163720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_368
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01be3805714be2c4794e5a9e229aeb61
+      internalID: 1070980286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_369
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 362
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a235f396bfe9f498b5a132bcfaf8fb
+      internalID: 891872656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_370
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 362
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7876279805693ea4ab494b46a499d927
+      internalID: -1752646917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_371
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 357
+        width: 153
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0cadb30ea96c241b66d4911e2fb4b9
+      internalID: -1579358301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_372
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 380
+        width: 110
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cb356e7ec12c449ae9c48a753e0827
+      internalID: 1562448313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_373
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 348
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385b356d8b49b5649b9b330095a0f6e9
+      internalID: 915412603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_374
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 348
+        width: 74
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeec65ea7e099b84aa4d43e60161ec2b
+      internalID: -1110951169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_375
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 378
+        width: 80
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610e3b30a8fa2ac47be494b869f0c4cd
+      internalID: -417161087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_376
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 366
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e949cdd4d54182241be9d73951758d64
+      internalID: 1113793219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_377
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 375
+        width: 110
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f09eb16653569d4f85c1bc948a64675
+      internalID: 2008918147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_378
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 348
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c4c9384fa1cf442aef78eed0fdda11
+      internalID: 1434288561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_379
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 348
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1685c7a4521776a4284ccd05e4e15239
+      internalID: 157135212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_380
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 348
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f62900ca04c2cd429d1ecde67a583bf
+      internalID: 1402904456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_381
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 348
+        width: 81
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e614f404199234f4e9517986cf47c318
+      internalID: 1931516157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_382
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 348
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bd79f8818036e4eb5a2967ace254b9
+      internalID: 1768968574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_383
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 348
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b659768134b514da8d9cddeb84fe52
+      internalID: 1908377907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_384
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 306
+        width: 97
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f605c1aca4c8424ca1706f2ff141b64
+      internalID: 313234071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_385
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 356
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4775ae8191e0c604ba821286404fa751
+      internalID: -1752214706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_386
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 272
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a56cb852eeef7469f48ab738c17edb
+      internalID: 1378400049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_387
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 338
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77760acfafff64f47ae32d9f730e98ab
+      internalID: -1637597211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_388
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 332
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc679cbb3d22064dae96a26fd98fdb0
+      internalID: 1273110234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_389
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 348
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae66dc96d65367e49860546ea464d017
+      internalID: 175985800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_390
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 348
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde69431af9928b498e9362f720b1b16
+      internalID: -458926033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_391
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 348
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567004eb38cf8964ea9fc8e0588e2ea5
+      internalID: 269941121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_392
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 331
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58a6580581cbb5478135ce849ceb62f
+      internalID: 1981519486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_393
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 272
+        width: 131
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6adf6b2f02a4e45bc997e4301fe575
+      internalID: 309044469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_394
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 332
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb346ad5f2ade5428934e9618bf27ba
+      internalID: -107059946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_395
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 184
+        width: 140
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec459cda01550f3429becdedc8391fd9
+      internalID: -1786585856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_396
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 174
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e33683fe8cbe44db37520577e7ad2c
+      internalID: 1472867304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_397
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 174
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8f4e648132ba34993cbdd3bd209d67
+      internalID: -1876604702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_398
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 174
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c821bb43c900f4c887c3655e91b268
+      internalID: 765222164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_399
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 174
+        width: 138
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198f70e0b1e877e41a91820fdc1c1ced
+      internalID: -2046339410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_400
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 306
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88950030e3bf6334787ee9c3211f6c86
+      internalID: 1658755863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_401
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 302
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e5f2ca0d751f94da7fb90fd876d739
+      internalID: -323597364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_402
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 302
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7089b3b9aca2db2449758004718e90f6
+      internalID: 86114466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_403
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 183
+        width: 274
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5289624984a31c43b81a6024d7f02f6
+      internalID: -1297523548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_404
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 272
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee94d5b62a99bb94bb57bb82994514c5
+      internalID: 350190858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_405
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 272
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a69784c35d6b84c877a7366bc88800
+      internalID: -1921906910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_406
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 183
+        width: 282
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bf96fc71b14f14487c4358bd5c604d
+      internalID: 1857266441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_407
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 183
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94502b9b9c6f1d7449d07aa0d98f0acc
+      internalID: -104010779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_408
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 81
+        width: 520
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc2c9cd16af5af47936b74e516c4a57
+      internalID: 1292012787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_409
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 164
+        width: 149
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39ab5c7a208948439b2b2ef8a0c679c
+      internalID: -1980281994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_410
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 144
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e625bcd9d8aa3304abd686ada257a11d
+      internalID: -1764138101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_411
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 0
+        width: 139
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6e83e0a147f87449f50288c302649d
+      internalID: -758815812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_412
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 0
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b269817ce463b49a7e86856a59d4c6
+      internalID: -1568795499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_413
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 0
+        width: 140
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070d31ff3164827489704c3814bdc613
+      internalID: -71187438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_414
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 0
+        width: 138
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd53ab11512848741a3b709d0b861990
+      internalID: 95914564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_415
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 81
+        width: 156
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3636c77ec69994ab3804175a777a94
+      internalID: 1074438695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_416
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 116
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292bd9bd76909dc4a9b7849d6d3cdc3d
+      internalID: -439302079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_417
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 81
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a0746e5be908d43863d1ca265c971c
+      internalID: -1137508426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_418
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 0
+        width: 713
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99d800a4707667409b5fb1e79457813
+      internalID: 45233265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_419
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 382
+        width: 34
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c72192d93981f74b815711b7a235939
+      internalID: 1522533479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_420
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 379
+        width: 34
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3233dff6b15d12d4c91385f2abe174c4
+      internalID: 1499122634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD Material_421
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 371
+        width: 22
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b960780f0bec24eb70986943653650
+      internalID: -798747486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b602c34d7782c374c94ff46b1ae8e15a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HUD Material_0: 895023293
+      HUD Material_1: 1198048678
+      HUD Material_10: -1218510528
+      HUD Material_100: 713301273
+      HUD Material_101: 400042434
+      HUD Material_102: 1603158179
+      HUD Material_103: -1227656327
+      HUD Material_104: -1936268119
+      HUD Material_105: -638754288
+      HUD Material_106: -1349505331
+      HUD Material_107: -837515002
+      HUD Material_108: -1476615532
+      HUD Material_109: 1638535904
+      HUD Material_11: -682108517
+      HUD Material_110: -1011997032
+      HUD Material_111: -1683403924
+      HUD Material_112: -1585035458
+      HUD Material_113: 1281918643
+      HUD Material_114: 1901098785
+      HUD Material_115: 507212470
+      HUD Material_116: 191297595
+      HUD Material_117: -1840409520
+      HUD Material_118: -1524682457
+      HUD Material_119: 908036248
+      HUD Material_12: -1414406997
+      HUD Material_120: 1322733713
+      HUD Material_121: -1644407847
+      HUD Material_122: -2119164848
+      HUD Material_123: 370818824
+      HUD Material_124: 857526688
+      HUD Material_125: -1259831928
+      HUD Material_126: -1584547433
+      HUD Material_127: -1282499665
+      HUD Material_128: -2037146249
+      HUD Material_129: 1562685946
+      HUD Material_13: 1248389721
+      HUD Material_130: 1673750181
+      HUD Material_131: -1369945490
+      HUD Material_132: -1059848310
+      HUD Material_133: 1101609809
+      HUD Material_134: 2071879318
+      HUD Material_135: 706988787
+      HUD Material_136: 650841730
+      HUD Material_137: -1266786802
+      HUD Material_138: 1844642963
+      HUD Material_139: -2029103879
+      HUD Material_14: 1997382529
+      HUD Material_140: 985994432
+      HUD Material_141: 923157861
+      HUD Material_142: -7323024
+      HUD Material_143: -410493666
+      HUD Material_144: -609395468
+      HUD Material_145: -311910106
+      HUD Material_146: -1545139435
+      HUD Material_147: -2136630238
+      HUD Material_148: 2097131027
+      HUD Material_149: -791538854
+      HUD Material_15: -962359413
+      HUD Material_150: 1097000796
+      HUD Material_151: -1198956309
+      HUD Material_152: 42862063
+      HUD Material_153: -192646377
+      HUD Material_154: 375662109
+      HUD Material_155: -526962677
+      HUD Material_156: 2029798090
+      HUD Material_157: -1889683653
+      HUD Material_158: -2143908209
+      HUD Material_159: -952571978
+      HUD Material_16: -290880585
+      HUD Material_160: -727448541
+      HUD Material_161: -765374762
+      HUD Material_162: 164445454
+      HUD Material_163: 856873945
+      HUD Material_164: -792327108
+      HUD Material_165: 1510919771
+      HUD Material_166: -1004320138
+      HUD Material_167: 1768781153
+      HUD Material_168: 379849400
+      HUD Material_169: 1347248036
+      HUD Material_17: -907179410
+      HUD Material_170: -1967071052
+      HUD Material_171: -445325213
+      HUD Material_172: 1775913382
+      HUD Material_173: -621095335
+      HUD Material_174: 1578480070
+      HUD Material_175: 60198128
+      HUD Material_176: 1200647531
+      HUD Material_177: 1950152217
+      HUD Material_178: 1980570310
+      HUD Material_179: -429368427
+      HUD Material_18: 1500812713
+      HUD Material_180: -260397465
+      HUD Material_181: -1406532720
+      HUD Material_182: 228479107
+      HUD Material_183: 232780873
+      HUD Material_184: -340697773
+      HUD Material_185: -744808556
+      HUD Material_186: -1891671324
+      HUD Material_187: -224654155
+      HUD Material_188: -326266653
+      HUD Material_189: 1954796646
+      HUD Material_19: -1677871905
+      HUD Material_190: 1318895460
+      HUD Material_191: 139128236
+      HUD Material_192: -1505134343
+      HUD Material_193: -1828303377
+      HUD Material_194: 1155498607
+      HUD Material_195: -650921154
+      HUD Material_196: 1456933999
+      HUD Material_197: 435007380
+      HUD Material_198: -765850858
+      HUD Material_199: 488083840
+      HUD Material_2: -1855171387
+      HUD Material_20: -574832441
+      HUD Material_200: 1182879194
+      HUD Material_201: -869412001
+      HUD Material_202: -2053280304
+      HUD Material_203: 165904856
+      HUD Material_204: 1906361041
+      HUD Material_205: 1186914249
+      HUD Material_206: -1711855376
+      HUD Material_207: 513599889
+      HUD Material_208: -411807068
+      HUD Material_209: -657941589
+      HUD Material_21: 473433427
+      HUD Material_210: -296726773
+      HUD Material_211: 722150653
+      HUD Material_212: -2110062279
+      HUD Material_213: 1194109931
+      HUD Material_214: -1396126320
+      HUD Material_215: 1204268850
+      HUD Material_216: -1582307342
+      HUD Material_217: -992360346
+      HUD Material_218: -2060783557
+      HUD Material_219: 2078290172
+      HUD Material_22: 130106538
+      HUD Material_220: -2027880379
+      HUD Material_221: 894075864
+      HUD Material_222: 1609455002
+      HUD Material_223: 1474396984
+      HUD Material_224: -567481743
+      HUD Material_225: -96968531
+      HUD Material_226: -1515644970
+      HUD Material_227: -376998109
+      HUD Material_228: 1423565077
+      HUD Material_229: 1157933727
+      HUD Material_23: 1842124740
+      HUD Material_230: -119300855
+      HUD Material_231: -1402549723
+      HUD Material_232: 715373715
+      HUD Material_233: 300241846
+      HUD Material_234: -1332309285
+      HUD Material_235: 303137840
+      HUD Material_236: -1729888016
+      HUD Material_237: -828613182
+      HUD Material_238: 92509438
+      HUD Material_239: -1892369161
+      HUD Material_24: 689502584
+      HUD Material_240: -246546416
+      HUD Material_241: -979877178
+      HUD Material_242: -177187138
+      HUD Material_243: -924378005
+      HUD Material_244: -568790661
+      HUD Material_245: 268700690
+      HUD Material_246: -1309777316
+      HUD Material_247: -10116949
+      HUD Material_248: -634192461
+      HUD Material_249: 1620843100
+      HUD Material_25: 2103177449
+      HUD Material_250: -1588821982
+      HUD Material_251: 681326224
+      HUD Material_252: -969546471
+      HUD Material_253: -1557645705
+      HUD Material_254: 1505303163
+      HUD Material_255: -101545397
+      HUD Material_256: -2084333724
+      HUD Material_257: -433049309
+      HUD Material_258: 782962627
+      HUD Material_259: -1783642662
+      HUD Material_26: 60937037
+      HUD Material_260: -127536628
+      HUD Material_261: -1567016082
+      HUD Material_262: 1211075394
+      HUD Material_263: 1265797177
+      HUD Material_264: 2008122931
+      HUD Material_265: -1726623695
+      HUD Material_266: 143586788
+      HUD Material_267: 1032557273
+      HUD Material_268: -1550167805
+      HUD Material_269: 1302312415
+      HUD Material_27: -42526285
+      HUD Material_270: 1251636410
+      HUD Material_271: 726466766
+      HUD Material_272: -43777960
+      HUD Material_273: -1798860856
+      HUD Material_274: -1977352858
+      HUD Material_275: 914762940
+      HUD Material_276: -161865748
+      HUD Material_277: -216825135
+      HUD Material_278: 24508
+      HUD Material_279: -1261074953
+      HUD Material_28: -721078072
+      HUD Material_280: 471294568
+      HUD Material_281: -413467792
+      HUD Material_282: -1512591233
+      HUD Material_283: 52174484
+      HUD Material_284: 510940839
+      HUD Material_285: 753605586
+      HUD Material_286: -631829931
+      HUD Material_287: -1907265577
+      HUD Material_288: -608418929
+      HUD Material_289: -506944827
+      HUD Material_29: 668174299
+      HUD Material_290: -1775633771
+      HUD Material_291: 630989494
+      HUD Material_292: 1338505449
+      HUD Material_293: 1030756123
+      HUD Material_294: -337690512
+      HUD Material_295: 1603867881
+      HUD Material_296: 1820860050
+      HUD Material_297: 1694579218
+      HUD Material_298: 1319131704
+      HUD Material_299: 1297770294
+      HUD Material_3: 977425454
+      HUD Material_30: -592678184
+      HUD Material_300: 1604846525
+      HUD Material_301: 2026553820
+      HUD Material_302: 178011929
+      HUD Material_303: 1535455584
+      HUD Material_304: 1080733574
+      HUD Material_305: -1561456433
+      HUD Material_306: -1233190793
+      HUD Material_307: 853711856
+      HUD Material_308: 27144031
+      HUD Material_309: 1698157112
+      HUD Material_31: -2139105064
+      HUD Material_310: 2061524132
+      HUD Material_311: -376986850
+      HUD Material_312: 264064355
+      HUD Material_313: -1503738730
+      HUD Material_314: 365910596
+      HUD Material_315: 438490854
+      HUD Material_316: -640368874
+      HUD Material_317: 50372486
+      HUD Material_318: 224733617
+      HUD Material_319: -1067109496
+      HUD Material_32: 1768862261
+      HUD Material_320: 1158473004
+      HUD Material_321: -338698229
+      HUD Material_322: -1659531108
+      HUD Material_323: -843233447
+      HUD Material_324: -1269250500
+      HUD Material_325: 978353396
+      HUD Material_326: -1558991290
+      HUD Material_327: -638113791
+      HUD Material_328: -1386509098
+      HUD Material_329: -2100358600
+      HUD Material_33: -194570233
+      HUD Material_330: -146885001
+      HUD Material_331: -823981971
+      HUD Material_332: -139711097
+      HUD Material_333: -45762927
+      HUD Material_334: -1226882882
+      HUD Material_335: 1693635770
+      HUD Material_336: -1701228421
+      HUD Material_337: -1147237656
+      HUD Material_338: 2012402701
+      HUD Material_339: 2034045348
+      HUD Material_34: 1360185158
+      HUD Material_340: -321270554
+      HUD Material_341: 528267303
+      HUD Material_342: 1200612912
+      HUD Material_343: -663957679
+      HUD Material_344: -1625294503
+      HUD Material_345: 2044402151
+      HUD Material_346: -927998571
+      HUD Material_347: -1999064638
+      HUD Material_348: 1153754461
+      HUD Material_349: -1128664048
+      HUD Material_35: 465853109
+      HUD Material_350: 2143237737
+      HUD Material_351: 172641755
+      HUD Material_352: -2041098192
+      HUD Material_353: -785153802
+      HUD Material_354: 1376857416
+      HUD Material_355: 1352090988
+      HUD Material_356: 1003913690
+      HUD Material_357: 1168630253
+      HUD Material_358: -55548317
+      HUD Material_359: -938686286
+      HUD Material_36: -543413866
+      HUD Material_360: 1654274912
+      HUD Material_361: 510489013
+      HUD Material_362: 2137520945
+      HUD Material_363: -1005274601
+      HUD Material_364: -2037775647
+      HUD Material_365: -1302839604
+      HUD Material_366: -696376030
+      HUD Material_367: 1417163720
+      HUD Material_368: 1070980286
+      HUD Material_369: 891872656
+      HUD Material_37: -955291021
+      HUD Material_370: -1752646917
+      HUD Material_371: -1579358301
+      HUD Material_372: 1562448313
+      HUD Material_373: 915412603
+      HUD Material_374: -1110951169
+      HUD Material_375: -417161087
+      HUD Material_376: 1113793219
+      HUD Material_377: 2008918147
+      HUD Material_378: 1434288561
+      HUD Material_379: 157135212
+      HUD Material_38: -1670009426
+      HUD Material_380: 1402904456
+      HUD Material_381: 1931516157
+      HUD Material_382: 1768968574
+      HUD Material_383: 1908377907
+      HUD Material_384: 313234071
+      HUD Material_385: -1752214706
+      HUD Material_386: 1378400049
+      HUD Material_387: -1637597211
+      HUD Material_388: 1273110234
+      HUD Material_389: 175985800
+      HUD Material_39: 412277538
+      HUD Material_390: -458926033
+      HUD Material_391: 269941121
+      HUD Material_392: 1981519486
+      HUD Material_393: 309044469
+      HUD Material_394: -107059946
+      HUD Material_395: -1786585856
+      HUD Material_396: 1472867304
+      HUD Material_397: -1876604702
+      HUD Material_398: 765222164
+      HUD Material_399: -2046339410
+      HUD Material_4: 1915106424
+      HUD Material_40: 1529053442
+      HUD Material_400: 1658755863
+      HUD Material_401: -323597364
+      HUD Material_402: 86114466
+      HUD Material_403: -1297523548
+      HUD Material_404: 350190858
+      HUD Material_405: -1921906910
+      HUD Material_406: 1857266441
+      HUD Material_407: -104010779
+      HUD Material_408: 1292012787
+      HUD Material_409: -1980281994
+      HUD Material_41: 43349701
+      HUD Material_410: -1764138101
+      HUD Material_411: -758815812
+      HUD Material_412: -1568795499
+      HUD Material_413: -71187438
+      HUD Material_414: 95914564
+      HUD Material_415: 1074438695
+      HUD Material_416: -439302079
+      HUD Material_417: -1137508426
+      HUD Material_418: 45233265
+      HUD Material_419: 1522533479
+      HUD Material_42: 470097120
+      HUD Material_420: 1499122634
+      HUD Material_421: -798747486
+      HUD Material_43: 868198522
+      HUD Material_44: 484771123
+      HUD Material_45: 781202368
+      HUD Material_46: -1455867070
+      HUD Material_47: 1060889243
+      HUD Material_48: 2095546558
+      HUD Material_49: 2139469589
+      HUD Material_5: -193220161
+      HUD Material_50: 714198287
+      HUD Material_51: 517874609
+      HUD Material_52: -321014325
+      HUD Material_53: 1813744456
+      HUD Material_54: -2137889793
+      HUD Material_55: 615686939
+      HUD Material_56: 1362940920
+      HUD Material_57: 712172797
+      HUD Material_58: 1225307594
+      HUD Material_59: -1706519886
+      HUD Material_6: -1001521705
+      HUD Material_60: 623773559
+      HUD Material_61: 363960054
+      HUD Material_62: 687918619
+      HUD Material_63: 153261174
+      HUD Material_64: -986116327
+      HUD Material_65: -921188344
+      HUD Material_66: -472024304
+      HUD Material_67: -1828939749
+      HUD Material_68: -70657333
+      HUD Material_69: -1179495187
+      HUD Material_7: -636552431
+      HUD Material_70: 456269659
+      HUD Material_71: 75565225
+      HUD Material_72: -1485712042
+      HUD Material_73: 1929909905
+      HUD Material_74: -887272637
+      HUD Material_75: -491814617
+      HUD Material_76: 1255692916
+      HUD Material_77: 243847543
+      HUD Material_78: -1425681499
+      HUD Material_79: 1136522433
+      HUD Material_8: -1094560094
+      HUD Material_80: 882291321
+      HUD Material_81: 2035140227
+      HUD Material_82: 33100710
+      HUD Material_83: -1311251989
+      HUD Material_84: -812959006
+      HUD Material_85: -1793129601
+      HUD Material_86: -2021379827
+      HUD Material_87: -295724525
+      HUD Material_88: 1284727567
+      HUD Material_89: 565899194
+      HUD Material_9: -2112765729
+      HUD Material_90: 222939172
+      HUD Material_91: -271808570
+      HUD Material_92: 1079292405
+      HUD Material_93: 73442512
+      HUD Material_94: -806413591
+      HUD Material_95: 2074040780
+      HUD Material_96: 62497289
+      HUD Material_97: 2041609222
+      HUD Material_98: 1561213891
+      HUD Material_99: -781579632
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
