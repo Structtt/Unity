@@ -1,0 +1,2544 @@
+fileFormatVersion: 2
+guid: 65d9616febf4b73419304cd185ca4ca2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ec398a6692ebb4a9e3312ebf2189c9
+      internalID: 1964116191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1000
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcebc076247b69449b4e2eadc1cd7aba
+      internalID: 400875512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1000
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc3b7f9737e1e749a83076817f826f6
+      internalID: 1524498582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1000
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434d455bdc4cabb4c8e879f169ade11e
+      internalID: 1693961363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1000
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823f02563e401b34d8c52eee2e62cbaf
+      internalID: 1208568216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1000
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ececd80aef6829489fe4c02b250b91c
+      internalID: 1760682641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1000
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ed928ef5626aa4ebbf31ad058ef78e
+      internalID: -1673044870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 944
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580283a3dc180df4fb5b1d0ae05f6e7d
+      internalID: -946191159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 964
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5502f55a3f68c0142934e27f63f2a4e8
+      internalID: -990989506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_14
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 971
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744fd000011075241bb6d68dcd1f75b1
+      internalID: -1038967686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_15
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 929
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33548e0675806d4db3fb37f3338c938
+      internalID: 820830527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 131
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b465dd17fe87ea040939501a12a17cc1
+      internalID: 1301225425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 964
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9468d636fccd6c34e8586d55200dd9d9
+      internalID: 701263886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 964
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447cc3ef2e0e39143bfcba4d64d1cadb
+      internalID: -1917009521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_22
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 916
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e40dc40baec914880ba29c0111cf48
+      internalID: -1561600972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_28
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 915
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180d90f8b03cb584aa9dfe3d58231573
+      internalID: 681241617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_35
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 927
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34937fb24cf98e4c94d99c054b12215
+      internalID: 2050596391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_36
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 896
+        width: 125
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29bb1c43040dd2489faf090e5ea8114
+      internalID: -797954575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_42
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 888
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3864b403778cf49be15c0d2d186f86
+      internalID: 1787517296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_43
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 888
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc242553cfc59d24b92d7b5a831ae9ba
+      internalID: 483289840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_44
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 888
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7ec63849d8f224aab2c76202575078
+      internalID: 1734887478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 854
+        width: 131
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10aab1d04cd21041bd0fd3c7e8347fe
+      internalID: 1042672718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_65
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 854
+        width: 130
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b17bb9ecfecb6040a25bf086877435f
+      internalID: -2079765977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_71
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 844
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1262df761b8022741a44585a05cbb114
+      internalID: -1267208903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_76
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 840
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0484d7dd86271994189812aa5a2fd3d5
+      internalID: 1731380432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_77
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 840
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30222bf2015d8fc4c9e7ed70cda01c36
+      internalID: -1268621257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_88
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 828
+        width: 126
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22854c4ecd179df45b9c55e8b60c0656
+      internalID: 1251882548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_96
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 814
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06edcffc601782548850875ad22a355a
+      internalID: 813529795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_97
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 814
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf0c7ab69ca6b9418b33e9269482259
+      internalID: -2078634290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_98
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 812
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53b381bcee289c4aaddbc5fedea18fe
+      internalID: -2020715365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_103
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 854
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd9518cf0b3aba4eae151dc52c006b0
+      internalID: 2049174628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 280
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3bdb3ae4c625741908e8930355a150
+      internalID: -1302815028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_111
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 826
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48e6ba662337c94d87f825ebfb9eb47
+      internalID: -1403283123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_128
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 760
+        width: 126
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101fad69a95921c439a9cb72dba7a488
+      internalID: 1717077093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_138
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 760
+        width: 129
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff916d7395240c4cbfb49a139cdc99a
+      internalID: 1907868282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_145
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 740
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268f2fa06f25d654f88d0572c2168df2
+      internalID: -2137369253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_157
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 740
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb04d575da326b4d8058fbf92123d37
+      internalID: -1635729432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_158
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 740
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060137f9c40782248a0d7fb36923ca65
+      internalID: 1943492498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_191
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 908
+        height: 756
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7111a0797d4fd1f4a8e955bd4e133f9d
+      internalID: -2043931414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_192
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 666
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30daceca7df1a3b4f91af8116f6d7da3
+      internalID: -1185771499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_193
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 666
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af05e431f9924184f8312e53af7d892f
+      internalID: -1325721740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_194
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c832ec4fadeff74eb4be76933a68699
+      internalID: 804818224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_195
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 592
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5646c90fd162d40a1f6d559c461593
+      internalID: 434894133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_196
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 592
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c74d30761705c43b4928d8853aed5b
+      internalID: -1438511997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_197
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 592
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda42737bfa1e5843ae2fa236a79d48c
+      internalID: -280643372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_198
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 518
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a65af4b5df7a314ea5eb06f8e83e775
+      internalID: 1820887920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_199
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 518
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb48037a90de0e943922b22428602d2b
+      internalID: -2107798862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_200
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 516
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b1a62c452258a4396519829bfdb6ca
+      internalID: -207906450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_201
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 148
+        width: 10
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190b3e17b516a4c44810cbca523ff8b1
+      internalID: -1928648473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_202
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 444
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8368b550c7941bc4a8ca65e6c9b1f7fb
+      internalID: -1433953062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_203
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 444
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ac4d8d594313541bba7c4d6015a303
+      internalID: -1596726721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_204
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 444
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a42e123674e38f42bf00a0e8e16aa6c
+      internalID: -960748583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_205
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 370
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d30ed000935bae428cf04a55be13469
+      internalID: 1081544439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_206
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 370
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde48d7b9dfb56743b984326a8cc4a56
+      internalID: 1305151696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_207
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 368
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c084e41a1328504896d0322aa5eeb18
+      internalID: 291434493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_208
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 296
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44682eb041c725149ae250b70cc27380
+      internalID: 1449424629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_209
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 296
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79285f7d8dc648041be9b97d61449537
+      internalID: 887791672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_210
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 296
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de76c6f2e5bdf9145a53fce38981df57
+      internalID: 441838318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_211
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 222
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fa61dc6433cda41ac863569da8d56c
+      internalID: -527449616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_212
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 222
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770054134aa45954d8940c6f5a12de53
+      internalID: 1413376051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_213
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 220
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b721ae31c68a0041a4383e40f511dab
+      internalID: 1746568761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_214
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 148
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746325c8d7bc22040a47075ab97a5efb
+      internalID: 618824365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_215
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 148
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01423ab2f971dea4c86ac50e33ac6368
+      internalID: -513351568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_216
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 148
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9362387c40715d47b349cdf78a9f091
+      internalID: -643730797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_217
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 74
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dadae1af279de645b71a0ba9849f52f
+      internalID: 1392209348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_218
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 74
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d8312feef219345ad9bf54d78a75c7
+      internalID: -578230329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_219
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 72
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21561da6b94e0544085e269fd6b64e23
+      internalID: 1146983540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_220
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 74
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba69e41ddd39ff46a0cc39b9b7e2311
+      internalID: -1054000311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_221
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 74
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213c132e62daa944f90a252cb01d7d6b
+      internalID: -1846693780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_222
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 74
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29052eeb8447eec41b3f76239348b12a
+      internalID: -612152778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_223
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 72
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189330cf6e8d0144183b171fa5ccbd0f
+      internalID: -2136650932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_224
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 74
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c60dff1b06e9d4dbe53c8044886499
+      internalID: -426707388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_225
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 75
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de4f26cb699a3d41abce95be836c8a8
+      internalID: -104587997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_228
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 72
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5c5255f9b84d74589d0355b48d4dba
+      internalID: 438408447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_229
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 72
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3f085bff54905459c222ab422eb9d6
+      internalID: 1416889129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_242
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c62ccb4d1920e44835711b26c21f51
+      internalID: -431427348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_243
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c90ec826d074264e96da9a89c4e5277
+      internalID: 1414841553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_244
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a364efa82b2560b48922c7c4b42c8671
+      internalID: 1256902323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_245
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 0
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52aa21a6670033d4fbf38874c528068e
+      internalID: -217449896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_246
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 0
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead3fc9f649ddaa48a29a1c95ce151c8
+      internalID: -1088692643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_247
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 0
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5922f92a15106924a9b78c7fd2abf605
+      internalID: -1223667649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_248
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b680bf1e4488efa4db5001cd0d0bbf1b
+      internalID: 432788922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_249
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 0
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87306421bda810419f36d37bd5d7225
+      internalID: 481154756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_250
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 0
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f9d49a0d3dd834ea8b328a89537b83
+      internalID: 1268979790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_251
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 0
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad16f20ed8726e64fa8e5195d2a2bb32
+      internalID: -1175535327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_252
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 0
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e661402668a1ea4dabda4b7d32fa443
+      internalID: -860485370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_253
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 0
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e3210197af8f1439e573949006147c
+      internalID: -1303525435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_254
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 0
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7510907ccf92e14ba1048da07ccfac5
+      internalID: -894397624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_255
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 0
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bb4f3740226d84484d0b7129960136
+      internalID: 1617904460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_256
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a5cf774b4cde949b95c224fea7f1a0
+      internalID: 672552342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_115
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 759
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd5693755ba03e4cb24a6ea7fc989ca
+      internalID: 322170688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_116
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 759
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afaf05d3436b0a4c9cf245020e6a601
+      internalID: 553558016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_121
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 759
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbb20db490e92a4da75d5ab700219da
+      internalID: 1537848887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_122
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 75
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512bc2cb1c92b9041a625ac6489fc780
+      internalID: 1715022585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_82
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 836
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424a454403fd0f4468ffe81e38df076d
+      internalID: 289558633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 932
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d93e57a0db46f42af12002c8392800
+      internalID: -400116080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_11
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 910
+        width: 94
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7a00ec3cf0f8f4d938051545532f29
+      internalID: 1427482485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_12
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 853
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37adbe56fa6c3a740803387f073dd729
+      internalID: -744680376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 768
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d3732fd25a434baf9f7490bc7a468
+      internalID: 225307076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 999
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dae013e0b95e7c4da1a6a89b7e7bd8b
+      internalID: 1859281669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade Screen New Material_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 998
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6658336470ac14ca78ae9bd90ec011
+      internalID: -1441444062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4478bf94f25d7cf40a663561d125d2af
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Upgrade Screen New Material_0: 1964116191
+      Upgrade Screen New Material_1: 400875512
+      Upgrade Screen New Material_10: -990989506
+      Upgrade Screen New Material_100: 1152481677
+      Upgrade Screen New Material_101: -196804457
+      Upgrade Screen New Material_102: -609864690
+      Upgrade Screen New Material_103: 2049174628
+      Upgrade Screen New Material_104: -1412545561
+      Upgrade Screen New Material_105: 2040639598
+      Upgrade Screen New Material_106: 1692040837
+      Upgrade Screen New Material_107: -1302815028
+      Upgrade Screen New Material_108: -2122072429
+      Upgrade Screen New Material_109: 348557666
+      Upgrade Screen New Material_11: 1427482485
+      Upgrade Screen New Material_110: -175286099
+      Upgrade Screen New Material_111: -1403283123
+      Upgrade Screen New Material_112: -1048799228
+      Upgrade Screen New Material_113: 626470794
+      Upgrade Screen New Material_114: 109303593
+      Upgrade Screen New Material_115: 322170688
+      Upgrade Screen New Material_116: 553558016
+      Upgrade Screen New Material_117: 506276510
+      Upgrade Screen New Material_118: -1494169418
+      Upgrade Screen New Material_119: 1971991373
+      Upgrade Screen New Material_12: -744680376
+      Upgrade Screen New Material_120: -670360817
+      Upgrade Screen New Material_121: 1537848887
+      Upgrade Screen New Material_122: 1715022585
+      Upgrade Screen New Material_123: -766485151
+      Upgrade Screen New Material_124: 726355092
+      Upgrade Screen New Material_125: -701682728
+      Upgrade Screen New Material_126: -21696406
+      Upgrade Screen New Material_127: 1518798057
+      Upgrade Screen New Material_128: 1717077093
+      Upgrade Screen New Material_129: 578419053
+      Upgrade Screen New Material_13: 225307076
+      Upgrade Screen New Material_130: 2026966882
+      Upgrade Screen New Material_131: -973072984
+      Upgrade Screen New Material_132: -659066522
+      Upgrade Screen New Material_133: 274515090
+      Upgrade Screen New Material_134: -1526049810
+      Upgrade Screen New Material_135: -1431893391
+      Upgrade Screen New Material_136: 2077840697
+      Upgrade Screen New Material_137: 622445660
+      Upgrade Screen New Material_138: 1907868282
+      Upgrade Screen New Material_139: 785857071
+      Upgrade Screen New Material_14: -1038967686
+      Upgrade Screen New Material_140: 666186008
+      Upgrade Screen New Material_141: 642655508
+      Upgrade Screen New Material_142: 1820508659
+      Upgrade Screen New Material_143: 270654223
+      Upgrade Screen New Material_144: 674781289
+      Upgrade Screen New Material_145: -2137369253
+      Upgrade Screen New Material_146: 1145524611
+      Upgrade Screen New Material_147: 1280464345
+      Upgrade Screen New Material_148: -360592210
+      Upgrade Screen New Material_149: 1385680781
+      Upgrade Screen New Material_15: 820830527
+      Upgrade Screen New Material_150: -1517351579
+      Upgrade Screen New Material_151: -1858992457
+      Upgrade Screen New Material_152: -359865392
+      Upgrade Screen New Material_153: 1861365567
+      Upgrade Screen New Material_154: 850506922
+      Upgrade Screen New Material_155: 722467019
+      Upgrade Screen New Material_156: 1386795796
+      Upgrade Screen New Material_157: -1635729432
+      Upgrade Screen New Material_158: 1943492498
+      Upgrade Screen New Material_159: 1023881522
+      Upgrade Screen New Material_16: 1301225425
+      Upgrade Screen New Material_160: -591383423
+      Upgrade Screen New Material_161: 449874991
+      Upgrade Screen New Material_162: -1994395868
+      Upgrade Screen New Material_163: -157186960
+      Upgrade Screen New Material_164: 822491355
+      Upgrade Screen New Material_165: -918340390
+      Upgrade Screen New Material_166: 852115107
+      Upgrade Screen New Material_167: 1298699775
+      Upgrade Screen New Material_168: 879178998
+      Upgrade Screen New Material_169: 901847421
+      Upgrade Screen New Material_17: -1441444062
+      Upgrade Screen New Material_170: -773133180
+      Upgrade Screen New Material_171: -759198757
+      Upgrade Screen New Material_172: 301784797
+      Upgrade Screen New Material_173: -572198681
+      Upgrade Screen New Material_174: -196314762
+      Upgrade Screen New Material_175: -95028692
+      Upgrade Screen New Material_176: 32176340
+      Upgrade Screen New Material_177: 1887748795
+      Upgrade Screen New Material_178: -1467410104
+      Upgrade Screen New Material_179: 2044250512
+      Upgrade Screen New Material_18: 701263886
+      Upgrade Screen New Material_180: -1368417410
+      Upgrade Screen New Material_181: 161601301
+      Upgrade Screen New Material_182: -1371596693
+      Upgrade Screen New Material_183: -2132957976
+      Upgrade Screen New Material_184: -2134772404
+      Upgrade Screen New Material_185: -2034480817
+      Upgrade Screen New Material_186: -936807655
+      Upgrade Screen New Material_187: -327918479
+      Upgrade Screen New Material_188: 334024903
+      Upgrade Screen New Material_189: -91269984
+      Upgrade Screen New Material_19: -1917009521
+      Upgrade Screen New Material_190: 1270330705
+      Upgrade Screen New Material_191: -2043931414
+      Upgrade Screen New Material_192: -1185771499
+      Upgrade Screen New Material_193: -1325721740
+      Upgrade Screen New Material_194: 804818224
+      Upgrade Screen New Material_195: 434894133
+      Upgrade Screen New Material_196: -1438511997
+      Upgrade Screen New Material_197: -280643372
+      Upgrade Screen New Material_198: 1820887920
+      Upgrade Screen New Material_199: -2107798862
+      Upgrade Screen New Material_2: 1859281669
+      Upgrade Screen New Material_20: 1248571113
+      Upgrade Screen New Material_200: -207906450
+      Upgrade Screen New Material_201: -1928648473
+      Upgrade Screen New Material_202: -1433953062
+      Upgrade Screen New Material_203: -1596726721
+      Upgrade Screen New Material_204: -960748583
+      Upgrade Screen New Material_205: 1081544439
+      Upgrade Screen New Material_206: 1305151696
+      Upgrade Screen New Material_207: 291434493
+      Upgrade Screen New Material_208: 1449424629
+      Upgrade Screen New Material_209: 887791672
+      Upgrade Screen New Material_21: 1954516920
+      Upgrade Screen New Material_210: 441838318
+      Upgrade Screen New Material_211: -527449616
+      Upgrade Screen New Material_212: 1413376051
+      Upgrade Screen New Material_213: 1746568761
+      Upgrade Screen New Material_214: 618824365
+      Upgrade Screen New Material_215: -513351568
+      Upgrade Screen New Material_216: -643730797
+      Upgrade Screen New Material_217: 1392209348
+      Upgrade Screen New Material_218: -578230329
+      Upgrade Screen New Material_219: 1146983540
+      Upgrade Screen New Material_22: -1561600972
+      Upgrade Screen New Material_220: -1054000311
+      Upgrade Screen New Material_221: -1846693780
+      Upgrade Screen New Material_222: -612152778
+      Upgrade Screen New Material_223: -2136650932
+      Upgrade Screen New Material_224: -426707388
+      Upgrade Screen New Material_225: -104587997
+      Upgrade Screen New Material_226: 991167954
+      Upgrade Screen New Material_227: -1726378292
+      Upgrade Screen New Material_228: 438408447
+      Upgrade Screen New Material_229: 1416889129
+      Upgrade Screen New Material_23: -1377034945
+      Upgrade Screen New Material_230: -364618010
+      Upgrade Screen New Material_231: -893866415
+      Upgrade Screen New Material_232: -763503820
+      Upgrade Screen New Material_233: -79797005
+      Upgrade Screen New Material_234: 936196995
+      Upgrade Screen New Material_235: -465032994
+      Upgrade Screen New Material_236: 1550366858
+      Upgrade Screen New Material_237: -1298155585
+      Upgrade Screen New Material_238: -971841091
+      Upgrade Screen New Material_239: 541546646
+      Upgrade Screen New Material_24: -847165633
+      Upgrade Screen New Material_240: -1740326163
+      Upgrade Screen New Material_241: 1242836775
+      Upgrade Screen New Material_242: -431427348
+      Upgrade Screen New Material_243: 1414841553
+      Upgrade Screen New Material_244: 1256902323
+      Upgrade Screen New Material_245: -217449896
+      Upgrade Screen New Material_246: -1088692643
+      Upgrade Screen New Material_247: -1223667649
+      Upgrade Screen New Material_248: 432788922
+      Upgrade Screen New Material_249: 481154756
+      Upgrade Screen New Material_25: -1212999302
+      Upgrade Screen New Material_250: 1268979790
+      Upgrade Screen New Material_251: -1175535327
+      Upgrade Screen New Material_252: -860485370
+      Upgrade Screen New Material_253: -1303525435
+      Upgrade Screen New Material_254: -894397624
+      Upgrade Screen New Material_255: 1617904460
+      Upgrade Screen New Material_256: 672552342
+      Upgrade Screen New Material_26: 2010765587
+      Upgrade Screen New Material_27: -603280306
+      Upgrade Screen New Material_28: 681241617
+      Upgrade Screen New Material_29: -1765846412
+      Upgrade Screen New Material_3: 1524498582
+      Upgrade Screen New Material_30: -1905708106
+      Upgrade Screen New Material_31: 387059702
+      Upgrade Screen New Material_32: -590637151
+      Upgrade Screen New Material_33: -990886535
+      Upgrade Screen New Material_34: 1394647044
+      Upgrade Screen New Material_35: 2050596391
+      Upgrade Screen New Material_36: -797954575
+      Upgrade Screen New Material_37: 286322634
+      Upgrade Screen New Material_38: 1120702853
+      Upgrade Screen New Material_39: 514102685
+      Upgrade Screen New Material_4: 1693961363
+      Upgrade Screen New Material_40: 799616907
+      Upgrade Screen New Material_41: -668206545
+      Upgrade Screen New Material_42: 1787517296
+      Upgrade Screen New Material_43: 483289840
+      Upgrade Screen New Material_44: 1734887478
+      Upgrade Screen New Material_45: -932871214
+      Upgrade Screen New Material_46: 1870763947
+      Upgrade Screen New Material_47: 606406883
+      Upgrade Screen New Material_48: -457795448
+      Upgrade Screen New Material_49: -330556248
+      Upgrade Screen New Material_5: 1208568216
+      Upgrade Screen New Material_50: 1656997151
+      Upgrade Screen New Material_51: 321493713
+      Upgrade Screen New Material_52: -1603756045
+      Upgrade Screen New Material_53: -806497611
+      Upgrade Screen New Material_54: 2057653700
+      Upgrade Screen New Material_55: 625598339
+      Upgrade Screen New Material_56: 1679989466
+      Upgrade Screen New Material_57: 2084002332
+      Upgrade Screen New Material_58: -1250091916
+      Upgrade Screen New Material_59: 1380712814
+      Upgrade Screen New Material_6: 1760682641
+      Upgrade Screen New Material_60: 1506512867
+      Upgrade Screen New Material_61: 1197195767
+      Upgrade Screen New Material_62: 1155441066
+      Upgrade Screen New Material_63: 56243891
+      Upgrade Screen New Material_64: 1042672718
+      Upgrade Screen New Material_65: -2079765977
+      Upgrade Screen New Material_66: 1951052523
+      Upgrade Screen New Material_67: -494722404
+      Upgrade Screen New Material_68: 1496901173
+      Upgrade Screen New Material_69: 506735789
+      Upgrade Screen New Material_7: -1673044870
+      Upgrade Screen New Material_70: -1388200381
+      Upgrade Screen New Material_71: -1267208903
+      Upgrade Screen New Material_72: -1077675435
+      Upgrade Screen New Material_73: -1567103392
+      Upgrade Screen New Material_74: 808772200
+      Upgrade Screen New Material_75: -2085211729
+      Upgrade Screen New Material_76: 1731380432
+      Upgrade Screen New Material_77: -1268621257
+      Upgrade Screen New Material_78: 761459359
+      Upgrade Screen New Material_79: 100478919
+      Upgrade Screen New Material_8: -400116080
+      Upgrade Screen New Material_80: -1695101608
+      Upgrade Screen New Material_81: 1078855940
+      Upgrade Screen New Material_82: 289558633
+      Upgrade Screen New Material_83: -170282179
+      Upgrade Screen New Material_84: 984620092
+      Upgrade Screen New Material_85: 2037745278
+      Upgrade Screen New Material_86: -1458349797
+      Upgrade Screen New Material_87: 1996690419
+      Upgrade Screen New Material_88: 1251882548
+      Upgrade Screen New Material_89: -420136556
+      Upgrade Screen New Material_9: -946191159
+      Upgrade Screen New Material_90: 718641823
+      Upgrade Screen New Material_91: 2004844930
+      Upgrade Screen New Material_92: 1441858118
+      Upgrade Screen New Material_93: 1761276920
+      Upgrade Screen New Material_94: 492262854
+      Upgrade Screen New Material_95: -1538837589
+      Upgrade Screen New Material_96: 813529795
+      Upgrade Screen New Material_97: -2078634290
+      Upgrade Screen New Material_98: -2020715365
+      Upgrade Screen New Material_99: 335196672
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

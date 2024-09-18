@@ -1,0 +1,2222 @@
+fileFormatVersion: 2
+guid: a939f0bf70bff364e92fefd3275d2180
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stage Select Material_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1984
+        width: 356
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bee7d23384bd2947a754335212bfff5
+      internalID: 190308433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1966
+        width: 356
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0947cec75bbd8f418bc548ad6150a92
+      internalID: 493760667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1928
+        width: 356
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13459a147c4427747a01697801173acb
+      internalID: -533058879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1914
+        width: 356
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c1254e6857b794f9f6e2d54a0e3ed9
+      internalID: -1555348548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1875
+        width: 356
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d58cfba4b0d5464391e49f18382bc4f
+      internalID: 1586141475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_19
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1859
+        width: 356
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3e2c8f8a2d2fe4a8bd2ad19594dce1
+      internalID: -1516011064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1821
+        width: 356
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f22a21dc769bd941ba3ab7da14020a8
+      internalID: -1979580583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_27
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1808
+        width: 356
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12015989e067bf246b9d74c274b0c25f
+      internalID: -235286278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1766
+        width: 356
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123e92c0903025c459ba847493529f53
+      internalID: 466455284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1758
+        width: 356
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddb1686f72f4f64888fde5020aa885a
+      internalID: -1469320030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_38
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1715
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bf864f1d08d1c428c2b0a59b50f25d
+      internalID: 2064721754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1707
+        width: 356
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afda1afd17f33cc45a1838b526fd0775
+      internalID: -1731641416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_44
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1704
+        width: 356
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e258b6b3383b357428d786d36c6a6dc0
+      internalID: -1950560783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1650
+        width: 356
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b73caee38942248925ca0fcb5891a4
+      internalID: 641483088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_50
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1650
+        width: 356
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cafe6334632b8345b9fa957e06651d6
+      internalID: -278248960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_53
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1617
+        width: 89
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a36992c81e8ee4d8df268ffaf224d9
+      internalID: -1567902182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 356
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7882a37092f73434ba2d54a314e7355c
+      internalID: 2130414636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_60
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1588
+        width: 356
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a1349893e807240a627d8f6429be69
+      internalID: 443059000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_63
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1514
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047879b762bd7db41b202f2a032787ea
+      internalID: -1803682397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1531
+        width: 356
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81e5fd9caba79549831f25dfed848ef
+      internalID: 1610756679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_68
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1529
+        width: 356
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7daf016064227845b54a424ed0469a9
+      internalID: -2124269106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1257
+        width: 370
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec4bdd07595d7144b2ed1c61a591c9d
+      internalID: -1930737615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_73
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1474
+        width: 356
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e97a936fb72b504dafff056ee30105a
+      internalID: -1374783123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_75
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1411
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd59e9be2edba64fbc49caaea736f3e
+      internalID: -1583512802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_77
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1415
+        width: 356
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2727e5fd5eeed7741943b24ba0d2469e
+      internalID: 876176832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_81
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1349
+        width: 356
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acef8b5646395a444896a95a56e1e17a
+      internalID: -626702073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_83
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1308
+        width: 89
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4620ec706ec62d645acb02f0e7a9584a
+      internalID: 2030119133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_84
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1257
+        width: 280
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a72cf0ea914e4144a31c043334dbe56
+      internalID: -1560673912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_85
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1257
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a3136917b73dd4aaa971e330cfdf75
+      internalID: -768438834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_86
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1257
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6475b64e540104fbed356ba4270476
+      internalID: -993281389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_87
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1257
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62aaa3d0383cbd04d923c0b0e25a247a
+      internalID: 315211434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_88
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1205
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c26b815931bd994486d0814dd0b70ac
+      internalID: -111584400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_89
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1205
+        width: 481
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058951b7d0bf4b14291ca46c356fee3c
+      internalID: -1475129924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 961
+        width: 188
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa790a58046dd8540aaf03e0b26e1acf
+      internalID: -1452120048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_96
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1102
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d131d72d25fbaca48a6ecbed39d2ac4d
+      internalID: -984422968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_97
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1073
+        width: 422
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c102a53a587a64e814f6bc14e0890b
+      internalID: 91386883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_113
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 999
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbecd4fff24a6bb4c8fe138ddbe10038
+      internalID: -744179470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_114
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1039
+        width: 506
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de14aeb3c4d64f1499a213176224aa4e
+      internalID: -229967074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_133
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 998
+        width: 538
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4543fdd283bce61489f90208bd9ed43a
+      internalID: -1870999777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_155
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 964
+        width: 417
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75db82bd2b1fccf44882b6c5ff134ba3
+      internalID: -1672478222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_172
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 901
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4276077e0476687419cb998f10b83376
+      internalID: -520066672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_175
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 842
+        width: 711
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abeefd25d8d9554bb85077f9cf4776f
+      internalID: -808382380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_189
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 797
+        width: 110
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4079e4e0eb5174840aefa1fab3ed9348
+      internalID: 421650689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_190
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 797
+        width: 111
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe64d1f30a8a8a24ab649e5e18ba4cdf
+      internalID: 1250674040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_191
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 705
+        width: 349
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c85b8c2e98774449141805c769ce1e
+      internalID: -1645981334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_192
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 705
+        width: 349
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c58c0fc757b46a4bbcbff3c6f0a4722
+      internalID: 1571457820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_196
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 752
+        width: 356
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e65df6c890090544bd66cfeb8865c1b
+      internalID: -1951454798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_199
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 755
+        width: 356
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88ae23feff19f84da1098e3c9a1d760
+      internalID: 503902156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_203
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 706
+        width: 356
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece83f04d4f41984dbd35601e0089d8b
+      internalID: -1104323372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_207
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 706
+        width: 356
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e7b4693c98aed458dffbe5fb402958
+      internalID: 902632015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_211
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 706
+        width: 356
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fcb4d9b40bc6e4dacd7251db97f839
+      internalID: -299886715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_215
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1185
+        height: 703
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a060954fe697464ba5e9719ddf8bc60
+      internalID: -663617500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_216
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 624
+        width: 551
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa4dc2d8eb57be43b9341a90c88dc9a
+      internalID: -1454963504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_218
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 670
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c02f010dd0376d4c8838e61fbca9785
+      internalID: 1762308710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_219
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 670
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149abda097158f344809d0cdddfbc2b8
+      internalID: 73598205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_220
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 661
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4bc061a017f25419b62bfa5cf19fa5
+      internalID: 2033074854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_221
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 663
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4708c999fd93a4b8d9d46a3d006d04
+      internalID: -1822661558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_222
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 663
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7f49cf1d81f1643a9c90caf2203685
+      internalID: -245149415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_223
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 659
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd41e178dbccb9448d81b1cf03eef45
+      internalID: 16555602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_224
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 654
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d20ecbbc0d974c46b9d946aeefa9d3f
+      internalID: 1135730756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_225
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 657
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fcbe6c522a4fc43a912ccbd6ef8723
+      internalID: 747219772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_229
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 624
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046499c6f4086754f9bdc71e05823dfd
+      internalID: 2068721788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_230
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 624
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef23d4cb32eaea47b7b3645fb0da1a3
+      internalID: -1922886552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_231
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 624
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8bcaedb138f0c49be466c18095101c
+      internalID: 1645765266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_232
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 624
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01893d09cf2af3448c1e9d62798d526
+      internalID: 763342755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_233
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 624
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022643bb814cc8f439b746a7833ebe36
+      internalID: 1024842487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_234
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 624
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0b53e05d9acba43b41622aba7df24f
+      internalID: -165864705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_235
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 624
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35f0952481151440880bdff7506e475
+      internalID: -1625092622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_236
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 624
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126ce1d3c3ad6c74fa9759fe86fed3a5
+      internalID: 734173218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_241
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 554
+        width: 627
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08d53d127590c0488ed517697981f7f
+      internalID: -464540619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_247
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 520
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e318c27e9d2bc2499e98ce68bff66c8
+      internalID: 1217906848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_248
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 326
+        width: 188
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92380a560b863564cbd33d02f6cfe8cb
+      internalID: 191102166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_249
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 334
+        width: 508
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1263ea86579a97849a01f6b7ace97f20
+      internalID: 544180951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_271
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 416
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c1de36f80a6e945a5d33659d328134
+      internalID: 1857438669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_292
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 312
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0947f0e6d21a7d843a8662d58f99ec0b
+      internalID: 1426288074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_321
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 250
+        width: 726
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9338dbf85813148b132468a6fc3a07
+      internalID: -1521182040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_328
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 208
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3c10343c6b64d4383b168e5ea585af
+      internalID: 1984568768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_329
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 108
+        width: 349
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cdeef6d44257e4d90304831f6f6641
+      internalID: 1330769118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_330
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 108
+        width: 349
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916745fbdba531043a77d309bcaf3577
+      internalID: -1084819916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_331
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 104
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd1520fa38c3584385d49010adbf6aa
+      internalID: -2069425532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_332
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 0
+        width: 711
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d1445c58c17ce41a153ffa16a8fe3d
+      internalID: 246058966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stage Select Material_333
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 0
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e6c1fc5658e8248b642d922ece9838
+      internalID: 629538443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: acaf9540ef507b94db3b3274adde9be9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stage Select Material_0: -968558780
+      Stage Select Material_1: 190308433
+      Stage Select Material_10: -1555348548
+      Stage Select Material_100: -254863965
+      Stage Select Material_101: 1414941619
+      Stage Select Material_102: 1634269705
+      Stage Select Material_103: -71499196
+      Stage Select Material_104: -1700506793
+      Stage Select Material_105: 973153666
+      Stage Select Material_106: -434193330
+      Stage Select Material_107: 301016611
+      Stage Select Material_108: 740230041
+      Stage Select Material_109: -2000371551
+      Stage Select Material_11: 678261715
+      Stage Select Material_110: -1072259979
+      Stage Select Material_111: 1492364048
+      Stage Select Material_112: 1422690542
+      Stage Select Material_113: -744179470
+      Stage Select Material_114: -229967074
+      Stage Select Material_115: -1919558880
+      Stage Select Material_116: 531558094
+      Stage Select Material_117: -1112047591
+      Stage Select Material_118: 403565868
+      Stage Select Material_119: 1417596639
+      Stage Select Material_12: 956700844
+      Stage Select Material_120: 2107984489
+      Stage Select Material_121: 2084529076
+      Stage Select Material_122: -1648637563
+      Stage Select Material_123: 938919098
+      Stage Select Material_124: 485761476
+      Stage Select Material_125: 482354408
+      Stage Select Material_126: -212910930
+      Stage Select Material_127: -946865699
+      Stage Select Material_128: -1418597964
+      Stage Select Material_129: -128654385
+      Stage Select Material_13: 1859921066
+      Stage Select Material_130: -1800309286
+      Stage Select Material_131: 1480541658
+      Stage Select Material_132: -209203159
+      Stage Select Material_133: -1870999777
+      Stage Select Material_134: -150608301
+      Stage Select Material_135: -766804409
+      Stage Select Material_136: 1682864201
+      Stage Select Material_137: 703188331
+      Stage Select Material_138: -1099832859
+      Stage Select Material_139: 932677889
+      Stage Select Material_14: 1726550217
+      Stage Select Material_140: 1052928956
+      Stage Select Material_141: -1099897491
+      Stage Select Material_142: 322991921
+      Stage Select Material_143: -991921291
+      Stage Select Material_144: 976091879
+      Stage Select Material_145: 1492053347
+      Stage Select Material_146: -2088127878
+      Stage Select Material_147: -209672204
+      Stage Select Material_148: 1590971656
+      Stage Select Material_149: -1463624997
+      Stage Select Material_15: 1586141475
+      Stage Select Material_150: -1420719434
+      Stage Select Material_151: -233537492
+      Stage Select Material_152: -121975617
+      Stage Select Material_153: -845450315
+      Stage Select Material_154: -433965113
+      Stage Select Material_155: -1672478222
+      Stage Select Material_156: -487416851
+      Stage Select Material_157: -2030277903
+      Stage Select Material_158: 1859819656
+      Stage Select Material_159: 1296750525
+      Stage Select Material_16: -27454055
+      Stage Select Material_160: 2099776053
+      Stage Select Material_161: 1651441453
+      Stage Select Material_162: -1430507787
+      Stage Select Material_163: -756342672
+      Stage Select Material_164: -1076017244
+      Stage Select Material_165: -1301400716
+      Stage Select Material_166: -1587951819
+      Stage Select Material_167: 2133833176
+      Stage Select Material_168: -2062675337
+      Stage Select Material_169: -2040633600
+      Stage Select Material_17: 664432079
+      Stage Select Material_170: -397650318
+      Stage Select Material_171: -640221021
+      Stage Select Material_172: -520066672
+      Stage Select Material_173: -1600648715
+      Stage Select Material_174: 1403371273
+      Stage Select Material_175: -808382380
+      Stage Select Material_176: -600900023
+      Stage Select Material_177: -1947841229
+      Stage Select Material_178: 910315144
+      Stage Select Material_179: -88649868
+      Stage Select Material_18: -881380247
+      Stage Select Material_180: -1499755777
+      Stage Select Material_181: -393748291
+      Stage Select Material_182: -1768951139
+      Stage Select Material_183: 1233005646
+      Stage Select Material_184: 1693790525
+      Stage Select Material_185: -1785786510
+      Stage Select Material_186: 1969443499
+      Stage Select Material_187: 1392136780
+      Stage Select Material_188: -156339786
+      Stage Select Material_189: 421650689
+      Stage Select Material_19: -1516011064
+      Stage Select Material_190: 1250674040
+      Stage Select Material_191: -1645981334
+      Stage Select Material_192: 1571457820
+      Stage Select Material_193: -641031373
+      Stage Select Material_194: 715234332
+      Stage Select Material_195: 2023404853
+      Stage Select Material_196: -1951454798
+      Stage Select Material_197: 1803055635
+      Stage Select Material_198: 1053802745
+      Stage Select Material_199: 503902156
+      Stage Select Material_2: -1423337484
+      Stage Select Material_20: -303816601
+      Stage Select Material_200: 2133266267
+      Stage Select Material_201: -1357148498
+      Stage Select Material_202: -1053375995
+      Stage Select Material_203: -1104323372
+      Stage Select Material_204: -658992001
+      Stage Select Material_205: 543014852
+      Stage Select Material_206: 1085956198
+      Stage Select Material_207: 902632015
+      Stage Select Material_208: 504115389
+      Stage Select Material_209: 1849142045
+      Stage Select Material_21: -175018683
+      Stage Select Material_210: 865167857
+      Stage Select Material_211: -299886715
+      Stage Select Material_212: 1227145704
+      Stage Select Material_213: 2115565757
+      Stage Select Material_214: -842236850
+      Stage Select Material_215: -663617500
+      Stage Select Material_216: -1454963504
+      Stage Select Material_217: -825878079
+      Stage Select Material_218: 1762308710
+      Stage Select Material_219: 73598205
+      Stage Select Material_22: 1780725312
+      Stage Select Material_220: 2033074854
+      Stage Select Material_221: -1822661558
+      Stage Select Material_222: -245149415
+      Stage Select Material_223: 16555602
+      Stage Select Material_224: 1135730756
+      Stage Select Material_225: 747219772
+      Stage Select Material_226: -1153982983
+      Stage Select Material_227: 434939058
+      Stage Select Material_228: 1403347800
+      Stage Select Material_229: 2068721788
+      Stage Select Material_23: -1979580583
+      Stage Select Material_230: -1922886552
+      Stage Select Material_231: 1645765266
+      Stage Select Material_232: 763342755
+      Stage Select Material_233: 1024842487
+      Stage Select Material_234: -165864705
+      Stage Select Material_235: -1625092622
+      Stage Select Material_236: 734173218
+      Stage Select Material_237: -616752155
+      Stage Select Material_238: 430015788
+      Stage Select Material_239: -857366007
+      Stage Select Material_24: 42537686
+      Stage Select Material_240: 18052201
+      Stage Select Material_241: -464540619
+      Stage Select Material_242: -520593782
+      Stage Select Material_243: 509413200
+      Stage Select Material_244: -1230202598
+      Stage Select Material_245: 2043569554
+      Stage Select Material_246: 1485504008
+      Stage Select Material_247: 1217906848
+      Stage Select Material_248: 191102166
+      Stage Select Material_249: 544180951
+      Stage Select Material_25: 520091370
+      Stage Select Material_250: -2106967151
+      Stage Select Material_251: 534679007
+      Stage Select Material_252: 1563785343
+      Stage Select Material_253: 1572722673
+      Stage Select Material_254: -1978515663
+      Stage Select Material_255: 106980006
+      Stage Select Material_256: 467208038
+      Stage Select Material_257: 628796053
+      Stage Select Material_258: -45890317
+      Stage Select Material_259: 1184294047
+      Stage Select Material_26: -394602419
+      Stage Select Material_260: -1510835663
+      Stage Select Material_261: -857521162
+      Stage Select Material_262: -337183653
+      Stage Select Material_263: -88641807
+      Stage Select Material_264: -129869064
+      Stage Select Material_265: 1139524262
+      Stage Select Material_266: 1008539442
+      Stage Select Material_267: -1907330947
+      Stage Select Material_268: -1555494633
+      Stage Select Material_269: -658959099
+      Stage Select Material_27: -235286278
+      Stage Select Material_270: -1695067313
+      Stage Select Material_271: 1857438669
+      Stage Select Material_272: 2046264673
+      Stage Select Material_273: -1895639714
+      Stage Select Material_274: 259048138
+      Stage Select Material_275: -1298893683
+      Stage Select Material_276: 95845461
+      Stage Select Material_277: 1604361734
+      Stage Select Material_278: 53247267
+      Stage Select Material_279: 2064846188
+      Stage Select Material_28: 2003384987
+      Stage Select Material_280: -1630736170
+      Stage Select Material_281: 499698806
+      Stage Select Material_282: -2018192793
+      Stage Select Material_283: -603578618
+      Stage Select Material_284: 1095313379
+      Stage Select Material_285: 1918274727
+      Stage Select Material_286: -681186468
+      Stage Select Material_287: 981715231
+      Stage Select Material_288: -1749558063
+      Stage Select Material_289: -445917609
+      Stage Select Material_29: 622415645
+      Stage Select Material_290: -516648003
+      Stage Select Material_291: -1987775857
+      Stage Select Material_292: 1426288074
+      Stage Select Material_293: -214097241
+      Stage Select Material_294: 36034318
+      Stage Select Material_295: 117065420
+      Stage Select Material_296: 981178185
+      Stage Select Material_297: -1595933516
+      Stage Select Material_298: 2145095052
+      Stage Select Material_299: -527156515
+      Stage Select Material_3: 493760667
+      Stage Select Material_30: 1919297469
+      Stage Select Material_300: -1528558464
+      Stage Select Material_301: -1534450746
+      Stage Select Material_302: -185374556
+      Stage Select Material_303: -1755431680
+      Stage Select Material_304: -1023405768
+      Stage Select Material_305: -1347822141
+      Stage Select Material_306: -1574210114
+      Stage Select Material_307: -285846229
+      Stage Select Material_308: -251515889
+      Stage Select Material_309: -22179921
+      Stage Select Material_31: 466455284
+      Stage Select Material_310: 2045969898
+      Stage Select Material_311: -124682973
+      Stage Select Material_312: -425533917
+      Stage Select Material_313: -282083632
+      Stage Select Material_314: -887823664
+      Stage Select Material_315: 417255138
+      Stage Select Material_316: 1933775046
+      Stage Select Material_317: -1756123042
+      Stage Select Material_318: -753555910
+      Stage Select Material_319: -585454624
+      Stage Select Material_32: 1246445471
+      Stage Select Material_320: -1428528369
+      Stage Select Material_321: -1521182040
+      Stage Select Material_322: 1616019374
+      Stage Select Material_323: -1446276630
+      Stage Select Material_324: 1996656329
+      Stage Select Material_325: -839918577
+      Stage Select Material_326: -1019253725
+      Stage Select Material_327: 606127727
+      Stage Select Material_328: 1984568768
+      Stage Select Material_329: 1330769118
+      Stage Select Material_33: -1247961154
+      Stage Select Material_330: -1084819916
+      Stage Select Material_331: -2069425532
+      Stage Select Material_332: 246058966
+      Stage Select Material_333: 629538443
+      Stage Select Material_34: -1906851832
+      Stage Select Material_35: -1469320030
+      Stage Select Material_36: -1353370627
+      Stage Select Material_37: 1513479938
+      Stage Select Material_38: 2064721754
+      Stage Select Material_39: -527098422
+      Stage Select Material_4: -207801747
+      Stage Select Material_40: -1731641416
+      Stage Select Material_41: 943742248
+      Stage Select Material_42: 1028559542
+      Stage Select Material_43: 1143151209
+      Stage Select Material_44: -1950560783
+      Stage Select Material_45: 485354673
+      Stage Select Material_46: -1404901511
+      Stage Select Material_47: 641483088
+      Stage Select Material_48: -1213370956
+      Stage Select Material_49: 1883421237
+      Stage Select Material_5: -533058879
+      Stage Select Material_50: -278248960
+      Stage Select Material_51: -1901069963
+      Stage Select Material_52: 1024423385
+      Stage Select Material_53: -1567902182
+      Stage Select Material_54: -555767938
+      Stage Select Material_55: 2130414636
+      Stage Select Material_56: -801458973
+      Stage Select Material_57: 1935574091
+      Stage Select Material_58: 174644671
+      Stage Select Material_59: -694604073
+      Stage Select Material_6: 1849488649
+      Stage Select Material_60: 443059000
+      Stage Select Material_61: -570411533
+      Stage Select Material_62: 944757397
+      Stage Select Material_63: -1803682397
+      Stage Select Material_64: 415751345
+      Stage Select Material_65: 1610756679
+      Stage Select Material_66: -1600923983
+      Stage Select Material_67: -646840509
+      Stage Select Material_68: -2124269106
+      Stage Select Material_69: -557315828
+      Stage Select Material_7: -1601139260
+      Stage Select Material_70: 813745934
+      Stage Select Material_71: -1930737615
+      Stage Select Material_72: -1607064195
+      Stage Select Material_73: -1374783123
+      Stage Select Material_74: -1059975942
+      Stage Select Material_75: -1583512802
+      Stage Select Material_76: 891768973
+      Stage Select Material_77: 876176832
+      Stage Select Material_78: 1075557046
+      Stage Select Material_79: 292129340
+      Stage Select Material_8: 1571084602
+      Stage Select Material_80: -1392057194
+      Stage Select Material_81: -626702073
+      Stage Select Material_82: -90906905
+      Stage Select Material_83: 2030119133
+      Stage Select Material_84: -1560673912
+      Stage Select Material_85: -768438834
+      Stage Select Material_86: -993281389
+      Stage Select Material_87: 315211434
+      Stage Select Material_88: -111584400
+      Stage Select Material_89: -1475129924
+      Stage Select Material_9: -617728007
+      Stage Select Material_90: 1049363250
+      Stage Select Material_91: 1475353268
+      Stage Select Material_92: -448441443
+      Stage Select Material_93: 1521320993
+      Stage Select Material_94: 535395874
+      Stage Select Material_95: -1452120048
+      Stage Select Material_96: -984422968
+      Stage Select Material_97: 91386883
+      Stage Select Material_98: 2128082593
+      Stage Select Material_99: 1921373072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

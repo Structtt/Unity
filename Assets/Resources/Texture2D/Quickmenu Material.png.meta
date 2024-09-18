@@ -1,0 +1,2650 @@
+fileFormatVersion: 2
+guid: 31c74c8b930852f4cb4fe8f222e3cdf9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Quickmenu Material_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 939
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16066c22f168f94b8fff4f34b9ba6be
+      internalID: -1860289251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 939
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09072b8face3ba4086fba3fc3c9aa4f
+      internalID: 678012956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 915
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f9ea4f93433bf488f2729e8a3b64c1
+      internalID: -567460598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 903
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5a479c162af9f48814b3f0228d6215
+      internalID: -1682660287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 968
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4fcc9d91a2de24fbd8f5d670f29ea6
+      internalID: -557172481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72f0f678f665b549a812bb9e2fb49f9
+      internalID: 2054597953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 858
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f83b76d1055e7f46bfef2bfef75bf3d
+      internalID: -954193396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 838
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fb691b8ee605d49b91b7097c40752a
+      internalID: 1259708079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_8
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 900
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2364367dbf05dac429150013a9e5dc48
+      internalID: -2139198215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 776
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a874cca265772fa479a036af2ea6a652
+      internalID: -852380715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 776
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b520e830470c8ea43b350019c0cf2ba3
+      internalID: 1473927584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 761
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3725db5d1ba151b4f98c2a42abf957ab
+      internalID: 1818632775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 826
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35b38d0aee6f2d4cb1754b17ae2a3d7
+      internalID: 1668616135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 830
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0feaa3461d3f1646bce3cb3647c38ac
+      internalID: -589628911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db02133e8a7427448bb40072c8e592b
+      internalID: -55643755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_15
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 696
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f5fcc8c7257384ba7e1944eae291b1
+      internalID: 1147165603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 749
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2414c86d67f267d49b68fabf42113227
+      internalID: 1572511077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 760
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffccebb9b20ad0c4691719335cb1ecaa
+      internalID: 185991379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 684
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5754ae8e4232a8245b8feadbfc9599a1
+      internalID: 1568493275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 672
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127bab106b5e8df4e870246eb53c1828
+      internalID: 1016966982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_21
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 680
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcf3bd29c111314489b0d45ac631d67
+      internalID: -1725001107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7863926c34f40ee4ba4e0575caec3022
+      internalID: 1207680603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_25
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 615
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4882e43424756b42b164dd162e33a8c
+      internalID: 41615379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_26
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 607
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f26181be060844ba45e30f3f064322
+      internalID: 1885561518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 595
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3414c52fe9dbb224283ede4cf957b6d6
+      internalID: 1979844324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_30
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 600
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cad444e5b59e5e46aa6fe9cd756e16b
+      internalID: -222749363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46cee786de0a8c4f8e58cd18d8cdf5e
+      internalID: -513986985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 534
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7273f8f1e5d6921459741381604dbffc
+      internalID: 611250786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_35
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 530
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97b01dfb268a9746bd3d43fba4c4b0c
+      internalID: -999712953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_36
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 518
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e6d22cef292fb4ea373c08015982be
+      internalID: -2045823980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_40
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 516
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747959b2787070c4da049d6a316d342f
+      internalID: 722991582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcc5e33b0074b140bc72c97acf1b493
+      internalID: -1700451568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_45
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 452
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91978dc0b0a559a459274700eb02a28b
+      internalID: 2127943353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_46
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 453
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9180ec4dee5094d9808c583751276a
+      internalID: 230236903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 441
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd39745aa4659d40adb72aa2626689d
+      internalID: 1213963014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_48
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 441
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f4e85b40d39c648915947c80b7afef
+      internalID: 1649853463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_52
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 440
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0c65e046253a142a4cb4fa787224d7
+      internalID: -1897585428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_53
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 440
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4218b7f188ba09247b63c7fb9c8e02d6
+      internalID: -1222251498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b69f2c356348ff47b79479a6a991e50
+      internalID: -1307899957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_55
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 372
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450749962592eba47bf6daeb98319a4f
+      internalID: -2118938724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_56
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 372
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79071433c5b65c343a0fb1cb22978d5a
+      internalID: 1668351530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 364
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf635e5bcc421e4abd95d1e9fc517e5
+      internalID: 1261034061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_59
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 364
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ba3ba6872994841a988d8e1f3f9cef
+      internalID: -1711437917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_61
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 364
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dfbaf78c38bc34a8b95fc758c25e38
+      internalID: -1361421474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_62
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 364
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04494aedf7b335644aa93493bed7f4e1
+      internalID: -171396288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_63
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 364
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df77bfd0e4233014bbde2912876eed45
+      internalID: -1066477656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_64
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 364
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e873185c85db2f24594f20f554571306
+      internalID: -1015440926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_65
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 364
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6d24c012b071e498c024684df67f44
+      internalID: 2080976467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_68
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 364
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8fe0b71c3dfa3448186e5ca8a45a80
+      internalID: 702532087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_69
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 364
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f9faf37291c53419ffcc6d8eb5605c
+      internalID: -1141793454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d96117d85a7534f832f31bbc9f1e30
+      internalID: 1121859382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_75
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 291
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b0aa0008d57c544b81746ca33a07ba
+      internalID: -74590317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_76
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 291
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748c5b444afbebb49a2356ff1ae122df
+      internalID: 274509683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 287
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3515f054a95db86489e066d04bda48b8
+      internalID: 304392489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_78
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 287
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb9fb62ceedaf24e8cf30fd26313d71
+      internalID: 1994147852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_79
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 287
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b231472daa432614eb535b60ab55adc5
+      internalID: 608784457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_80
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 287
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66ade358a509b74fb63909f1be1ea48
+      internalID: 1878855412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_81
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 287
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793e5913c10748e45907908307c6264a
+      internalID: -1401999818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_82
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 287
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be3a9e881436c5478584b0aeb4a7ffe
+      internalID: 102829390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_83
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 287
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d1814695841bb40a7c1ea5bf259b1f
+      internalID: -1406996654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_84
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 287
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9bf7801d119384fa96f2dea2fd3361
+      internalID: -748088114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_85
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 287
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc69748bbb4b2e44bdbc7a7f8c3f87d
+      internalID: 966535898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823c15f894a35cc4bbebdec72f2b0a3b
+      internalID: -6399732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_87
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 210
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd35b494479ef484187ee329dc0d7638
+      internalID: 1150035419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_88
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 210
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a040e7c894eba2e489210f2718f1f20e
+      internalID: 741117034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_89
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 210
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46eef0a698988c4782cabff112d8d72
+      internalID: 1093827189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_90
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 210
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae52ee27ba1a9854cb8326330c9a8f20
+      internalID: 725936821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_91
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 210
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f081bf86d24a37c4fa4320d840b79e99
+      internalID: -1032758687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_92
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 210
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0570d75401c40b3449d610b34333cfef
+      internalID: 845995184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_93
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 210
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fa374a8c86ce541a3e0d585589285c
+      internalID: 673153715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_94
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 210
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40793b1edd7c2b945aca19a797040bd7
+      internalID: 857310025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_95
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 210
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f05dfa1e1d84c4790e1fd275e92ccc
+      internalID: 1317799627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_96
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 210
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6078eb901df04479b46d142bc5c8f6
+      internalID: -1396711875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_97
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 210
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3888e460dae47d24691fa139a9f8cffd
+      internalID: 1142334494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 207
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7353a093358ac47832253ee09e1d87
+      internalID: 75673160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 126
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6f5cc736acea64c9f170a5d1de27d1
+      internalID: -78768561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_100
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 126
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e801c5183b9621a488cec672b1cc3d55
+      internalID: 124334766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_101
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 126
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a4a5a3d8d3134aa72c2cea669aba9
+      internalID: 710962437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_102
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 191
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1f118051330b046a3985c7aedbeae1
+      internalID: -1694856770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_103
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 182
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b94e705f7e6c04683afb3ad04e970f
+      internalID: -1230329465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_104
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 182
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de383c8649a5a14bb4bbb3f4ba72b12
+      internalID: 605277566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_105
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 182
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218d4c2718296364791f4fd6091e68c7
+      internalID: 81215624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_106
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 182
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bed0bedf93f22846ba7a1b6cd3b79ce
+      internalID: -2132516057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_107
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 162
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52491ef143675784c9c6abce1da5544b
+      internalID: -46544968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_108
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 182
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f823f086840c1b4da6d2e8371e38048
+      internalID: 1107382051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_109
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 162
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f456c21497ff98a44af76031d30c1adc
+      internalID: -1263293917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_110
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 168
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4df708842e20e43b235f3d325dc759
+      internalID: -1522284278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_111
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 93
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d063a729e6dba448ad29658f0dac904
+      internalID: 534643589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_112
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 162
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71c6a345acc9f5468aea990a20f96a0
+      internalID: -1945883154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_113
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 162
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3ea21a52813ec41adc11fe01ece6c5
+      internalID: -1261663372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_118
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 147
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b99e119349c4a4391b76448f42762f
+      internalID: 1451992513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_119
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 80
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d907ef2bd835468418235526d20a93b6
+      internalID: -1222329588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_120
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 80
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06883f8f9bc7da4983cdbf542046e75
+      internalID: -1402626232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_121
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 80
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e41a19cde96cc64bbf48673b7d6998e
+      internalID: -1531125545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_122
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 80
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cb1feb80fb4dc4f953f2b2eccc268a
+      internalID: 2075145774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_123
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 80
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c919ea9a59fac0d408c5dee45ae63310
+      internalID: 1010856900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_124
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 126
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fe38a378e76bd4286cf96a96cc322c
+      internalID: 1168113901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_125
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 274
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0b2e5f0e7e65948b326a5f60bf7081
+      internalID: -1508274847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_126
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3babc8e27059f4da7f0ab88ce6250d
+      internalID: 837205006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_127
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335ee1d4e2b3e3947b28a9602c28ff43
+      internalID: -742120344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_128
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01459126258394748b32e3fa8bbbee75
+      internalID: 1262723330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_129
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 0
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f7aaf073aaca4429185589a1700d4a
+      internalID: -939982204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_130
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 0
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908688f953f4f4448812afa64e6190cc
+      internalID: 1434195788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_131
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 0
+        width: 83
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a3263f1db5108449fdcd2f7703924b
+      internalID: -917659303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 683
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5c19fc80dc5c44ea6500f7bae4f1c0
+      internalID: 794199228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_22
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 624
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addafa644cc0fc14cbb4773c90971ad8
+      internalID: -610973197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 572
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0af07b04c2c63a4a9a1b407f4142eb3
+      internalID: -1817642187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_28
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 516
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f23b9415cc3db4aa746062be4dd4d8
+      internalID: 1205588910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_29
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 440
+        width: 60
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394e76a923e38dd40bebe5142103ca7c
+      internalID: -332106769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 361
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616d6c9350136964dbfb717b11592031
+      internalID: -1843246613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_34
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 364
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2954845912777704c837a959d23a204f
+      internalID: -2023940534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quickmenu Material_37
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 160
+        width: 85
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5e62a2f50c6bb449394a5df8035f29
+      internalID: -2146762428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 46e262b4c969bbf4ca55b3c623659869
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Quickmenu Material_0: -1860289251
+      Quickmenu Material_1: 678012956
+      Quickmenu Material_10: 1473927584
+      Quickmenu Material_100: 124334766
+      Quickmenu Material_101: 710962437
+      Quickmenu Material_102: -1694856770
+      Quickmenu Material_103: -1230329465
+      Quickmenu Material_104: 605277566
+      Quickmenu Material_105: 81215624
+      Quickmenu Material_106: -2132516057
+      Quickmenu Material_107: -46544968
+      Quickmenu Material_108: 1107382051
+      Quickmenu Material_109: -1263293917
+      Quickmenu Material_11: 1818632775
+      Quickmenu Material_110: -1522284278
+      Quickmenu Material_111: 534643589
+      Quickmenu Material_112: -1945883154
+      Quickmenu Material_113: -1261663372
+      Quickmenu Material_114: -1152906970
+      Quickmenu Material_115: 1048014236
+      Quickmenu Material_116: 233168873
+      Quickmenu Material_117: 2005058490
+      Quickmenu Material_118: 1451992513
+      Quickmenu Material_119: -1222329588
+      Quickmenu Material_12: 1668616135
+      Quickmenu Material_120: -1402626232
+      Quickmenu Material_121: -1531125545
+      Quickmenu Material_122: 2075145774
+      Quickmenu Material_123: 1010856900
+      Quickmenu Material_124: 1168113901
+      Quickmenu Material_125: -1508274847
+      Quickmenu Material_126: 837205006
+      Quickmenu Material_127: -742120344
+      Quickmenu Material_128: 1262723330
+      Quickmenu Material_129: -939982204
+      Quickmenu Material_13: -589628911
+      Quickmenu Material_130: 1434195788
+      Quickmenu Material_131: -917659303
+      Quickmenu Material_14: -55643755
+      Quickmenu Material_15: 1147165603
+      Quickmenu Material_16: 1572511077
+      Quickmenu Material_17: 185991379
+      Quickmenu Material_18: 1568493275
+      Quickmenu Material_19: 1016966982
+      Quickmenu Material_2: -567460598
+      Quickmenu Material_20: 794199228
+      Quickmenu Material_21: -1725001107
+      Quickmenu Material_22: -610973197
+      Quickmenu Material_23: -1817642187
+      Quickmenu Material_24: 1207680603
+      Quickmenu Material_25: 41615379
+      Quickmenu Material_26: 1885561518
+      Quickmenu Material_27: 1979844324
+      Quickmenu Material_28: 1205588910
+      Quickmenu Material_29: -332106769
+      Quickmenu Material_3: -1682660287
+      Quickmenu Material_30: -222749363
+      Quickmenu Material_31: -1843246613
+      Quickmenu Material_32: -513986985
+      Quickmenu Material_33: 611250786
+      Quickmenu Material_34: -2023940534
+      Quickmenu Material_35: -999712953
+      Quickmenu Material_36: -2045823980
+      Quickmenu Material_37: -2146762428
+      Quickmenu Material_38: -1381903209
+      Quickmenu Material_39: 645704535
+      Quickmenu Material_4: -557172481
+      Quickmenu Material_40: 722991582
+      Quickmenu Material_41: 547876963
+      Quickmenu Material_42: -1277272099
+      Quickmenu Material_43: 1746429624
+      Quickmenu Material_44: -1700451568
+      Quickmenu Material_45: 2127943353
+      Quickmenu Material_46: 230236903
+      Quickmenu Material_47: 1213963014
+      Quickmenu Material_48: 1649853463
+      Quickmenu Material_49: 333551045
+      Quickmenu Material_5: 2054597953
+      Quickmenu Material_50: 2057629228
+      Quickmenu Material_51: 1586136476
+      Quickmenu Material_52: -1897585428
+      Quickmenu Material_53: -1222251498
+      Quickmenu Material_54: -1307899957
+      Quickmenu Material_55: -2118938724
+      Quickmenu Material_56: 1668351530
+      Quickmenu Material_57: 192071054
+      Quickmenu Material_58: 1261034061
+      Quickmenu Material_59: -1711437917
+      Quickmenu Material_6: -954193396
+      Quickmenu Material_60: -1627162063
+      Quickmenu Material_61: -1361421474
+      Quickmenu Material_62: -171396288
+      Quickmenu Material_63: -1066477656
+      Quickmenu Material_64: -1015440926
+      Quickmenu Material_65: 2080976467
+      Quickmenu Material_66: 646928987
+      Quickmenu Material_67: 998742838
+      Quickmenu Material_68: 702532087
+      Quickmenu Material_69: -1141793454
+      Quickmenu Material_7: 1259708079
+      Quickmenu Material_70: 285120598
+      Quickmenu Material_71: -1915294486
+      Quickmenu Material_72: -331719062
+      Quickmenu Material_73: 529668036
+      Quickmenu Material_74: 1121859382
+      Quickmenu Material_75: -74590317
+      Quickmenu Material_76: 274509683
+      Quickmenu Material_77: 304392489
+      Quickmenu Material_78: 1994147852
+      Quickmenu Material_79: 608784457
+      Quickmenu Material_8: -2139198215
+      Quickmenu Material_80: 1878855412
+      Quickmenu Material_81: -1401999818
+      Quickmenu Material_82: 102829390
+      Quickmenu Material_83: -1406996654
+      Quickmenu Material_84: -748088114
+      Quickmenu Material_85: 966535898
+      Quickmenu Material_86: -6399732
+      Quickmenu Material_87: 1150035419
+      Quickmenu Material_88: 741117034
+      Quickmenu Material_89: 1093827189
+      Quickmenu Material_9: -852380715
+      Quickmenu Material_90: 725936821
+      Quickmenu Material_91: -1032758687
+      Quickmenu Material_92: 845995184
+      Quickmenu Material_93: 673153715
+      Quickmenu Material_94: 857310025
+      Quickmenu Material_95: 1317799627
+      Quickmenu Material_96: -1396711875
+      Quickmenu Material_97: 1142334494
+      Quickmenu Material_98: 75673160
+      Quickmenu Material_99: -78768561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

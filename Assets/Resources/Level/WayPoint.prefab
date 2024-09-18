@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3352012716343603952
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 970230831443138267}
+  - component: {fileID: 306345573488677512}
+  - component: {fileID: 4839290782555110611}
+  m_Layer: 5
+  m_Name: WayPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &970230831443138267
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3352012716343603952}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -342.90973, y: 148.631, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &306345573488677512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3352012716343603952}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ef3e173896cda64eb767c9ed2246db8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  points:
+  - {x: 102.87778, y: 153.9847, z: 0}
+  - {x: 99.60199, y: 19.829865, z: 0}
+  - {x: 5.7455597, y: -41.661575, z: 0}
+  - {x: 12.861206, y: -105.43591, z: 0}
+  - {x: 79.5296, y: -125.51392, z: 0}
+  - {x: 137.57089, y: -115.88112, z: 0}
+  - {x: 197.74207, y: -131.24913, z: 0}
+  - {x: 251.56204, y: -83.2755, z: 0}
+  - {x: 459.52823, y: -74.841385, z: 0}
+--- !u!114 &4839290782555110611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3352012716343603952}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 081bc63fdd0777e48aa326e11a862dee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxWave: 2
+  monsterNumOnWave: 2
+  monsterIDs: 02000000
+  createOffsetTime: 2
+  delayTime: 60
+  firstDelayTime: 0

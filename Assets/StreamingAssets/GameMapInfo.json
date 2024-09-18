@@ -1,0 +1,7 @@
+[
+{"id":1,"imgRes":"GameSceneImg/Stage Select Stage 1 Material","name":"第一关","tips":"待定","gameSceneName":"GameScene01","money":1000,"Hp":20},
+{"id":2,"imgRes":"GameSceneImg/Stage Select Stage 2 Material","name":"第二关","tips":"待定","gameSceneName":"GameScene02","money":1000,"Hp":20},
+{"id":3,"imgRes":"GameSceneImg/Stage Select Stage 3 Material","name":"第三关","tips":"待定","gameSceneName":"GameScene03","money":1000,"Hp":20},
+{"id":4,"imgRes":"GameSceneImg/Stage Select Stage 4 Material","name":"第四关","tips":"待定","gameSceneName":"GameScene04","money":1000,"Hp":20},
+{"id":5,"imgRes":"GameSceneImg/Stage Select Stage 5 Material","name":"第五关","tips":"待定","gameSceneName":"GameScene05","money":1000,"Hp":20}
+]
